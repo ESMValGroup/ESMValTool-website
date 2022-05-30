@@ -10,4 +10,4 @@ track of the usage of the ESMValTool and allows our funding agencies to
 monitor its application. Thank you!
 
 Please register your pulication by sending an email to \
-**Remi Kazeroni (Technical Support)**
+📧 <a href="javascript:mail('remi.kazeroni','dlr.de')">Remi Kazeroni (Technical Support)</a>
