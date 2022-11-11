@@ -5,74 +5,63 @@ title: Impressum
 
 ## Legal notice
 
-Imprint according to Section 5 Telemediengesetz (German Telemedia Act)
-and Section 18 Medienstaatsvertrag (German State Media Treaty)
+**Imprint according to Section 5 Telemediengesetz (German Telemedia Act)
+and Section 18 Medienstaatsvertrag (German State Media Treaty)**
 
 
 Deutsches Zentrum fuer Luft- und Raumfahrt e. V. \
 German Aerospace Center (DLR) \
 Linder Hoehe \
-51147 Koeln (Cologne) \
+51147 Köln (Cologne) \
 Germany \
 phone: +49 2203 601-0 \
 fax: +49 2203 67310 \
 email: contact-dlr [at] dlr.de \
-[http://www.dlr.de/](http://www.dlr.de/)
+[http://www.dlr.de/en](http://www.dlr.de/en)
 
-DLR's Executive Board is empowered to act as DLR's representative. The
-Executive Board's seat is located at DLR, Executive Board, Linder Hoehe,
-D-51147 Koeln. The Executive Board can also authorise DLR employees to act
-on behalf of DLR. The head of DLR's legal department, Linder Hoehe, 51147 Cologne,
-can provide information about the extent of this authorisation. Registered court
-and registration number of DLR: District court of Bonn, VR 2780.
+DLR's Executive Board is empowered to act as DLR's representative. 
+It consists of Prof. Dr.-Ing. Anke Kaysser-Pyzalla (Chair of the DLR
+Executive Board), Klaus Hamacher (Vice Chairman of the Executive Board),
+Prof. Dr.-Ing. Karsten Lemmer and Dr.-Ing. Walther Pelzer.
 
-The full Impressum is available at [https://www.dlr.de/impressum](https://www.dlr.de/impressum)
+**Seat of the Executive Board**
 
-The ESMValTool website is maintained by
+The Executive Board's seat is located at DLR, Executive Board, Linder Hoehe, D-51147 Cologne.
 
+The Executive Board can also authorise DLR employees to act on behalf of DLR. The head
+of DLR's legal department, Linder Hoehe, 51147 Cologne, can provide information about
+the extent of this authorisation.
 
-German Aerospace Center (DLR) \
-Institute of Atmospheric Physics \
-Oberpfaffenhofen \
-D-82234 Wessling \
-Germany \
-phone: +49 8153 28-3554 \
-fax: +49 8153 28-1841 \
-email: Remi.Kazeroni [at] dlr.de \
-[http://www.dlr.de/pa/](http://www.dlr.de/pa/)
+**Court of registration/registration number**
 
-### Portal editing
+District court of Bonn, VR 2780.
 
-Dr. Remi Kazeroni, DLR Institute of Atmospheric Physics
+**Value added tax identification number**
 
-### Responsible
+DE 121965658
 
-Prof. Dr. Veronika Eyring
+**Responsible in the sense of Section 18 2nd paragraph of Medienstaatsvertrag
+(German State Media Treaty)**
 
-### Publisher
-
-German Aerospace Center (DLR) - The Executive Board, Cologne
-
-### Liability
-
-DLR cannot be held liable either for mistakes in editorial or technical aspects,
-nor for omissions, nor for the correctness of the content. In particular, DLR
-does not guarantee completeness or correctness of information contained in external
-websites which can be accessed via links from DLR's websites. Despite accurate
-research on the content of such linked external websites, DLR cannot be held liable
-for their content. Only the content providers of such external sites are liable for
-their content. Should you notice any mistake in technical or editorial aspects of
-the DLR site, please do not hesitate to inform us.
-
-### Data privacy
-
-The full privacy notice is available
-[https://www.pa.op.dlr.de/privacy.html](https://www.pa.op.dlr.de/privacy.html)
-
-### Technical Maintenance
-
+Prof. Dr. Veronika Eyring \
 German Aerospace Center (DLR) \
 Institute of Atmospheric Physics \
 Oberpfaffenhofen \
 D-82234 Wessling \
 Germany
+
+### Liability
+
+According to section 7 first paragraph of the German Telemedia Act, DLR as the
+content provider is responsible for its own content which it provides for use on
+this website [https://www.esmvaltool.org], in accordance with the general laws.
+Cross-references ("links") to content provided by other content providers must
+be distinguished from DLR´s own content. By means of the cross-reference DLR
+provides third-party content for use which is marked accordingly by the indication
+"[external]" or by a link. Before setting the link DLR checks this third-party
+content if it causes possible civil or criminal liability. However, it cannot
+be excluded that the third-party content providers change their content afterwards.
+DLR does not constantly check the third-party content it refers to for changes made
+by the third-party content providers which could engender DLR´s civil or criminal
+liability. If you believe that the linked external sites violate applicable laws
+or otherwise have inappropriate content, please let us know.
