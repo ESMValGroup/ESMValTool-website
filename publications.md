@@ -178,6 +178,10 @@ constraints and future projections from Earth system models in CMIP, Geosci. Mod
 Dev., 13, 4205-4228,
 [doi: 10.5194/gmd-13-4205-2020](https://doi.org/10.5194/gmd-13-4205-2020), 2020.
 
+Lauer, A., Bock, L., Hassler, B., Schröder, M., Stengel, M.: Cloud climatologies from global
+climate models - a comparison of CMIP5 and CMIP6 models with satellite data, Journal of Climate
+(accepted), [doi: 10.1175/JCLI-D-22-0181.1](https://doi.org/10.1175/JCLI-D-22-0181.1).
+
 Lee, H., Goodman, A., McGibbney, L., Waliser, D. E., Kim, J., Loikith, P. C.,
 Gibson, P. B. and Massoud, E. C.: Regional climate model evaluation system powered
 by apache open climate workbench v1.3.0: An enabling tool for facilitating regional
@@ -256,6 +260,12 @@ Schlund, M., Lauer, A., Gentine, P., Sherwood, S. C., and Eyring, V.:
 Emergent constraints on Equilibrium Climate Sensitivity in CMIP5: do they
 hold for CMIP6?, Earth Syst. Dynam., 11, 1233-1258,
 [doi: 10.5194/esd-11-1233-2020](https://doi.org/10.5194/esd-11-1233-2020), 2020.
+
+Schlund, M., Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R.,
+Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J.,
+Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: 
+Evaluation of Native Earth System Model Output with ESMValTool v2.6.0,
+Geosci. Model Dev. (accepted). 
 
 Senftleben, D., V. Eyring, A. Lauer, and M. Righi: Temperature and sea ice hindcast
 skill of the MiKlip decadal prediction system in the Arctic, Met. Z., 27(3), 195-208,
