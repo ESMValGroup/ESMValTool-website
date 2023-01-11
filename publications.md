@@ -265,7 +265,8 @@ Schlund, M., Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R.,
 Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J.,
 Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: 
 Evaluation of Native Earth System Model Output with ESMValTool v2.6.0,
-Geosci. Model Dev. (accepted). 
+Geosci. Model Dev., 16, 315-333,
+[doi: 10.5194/gmd-16-315-2023](https://doi.org/10.5194/gmd-16-315-2023), 2023.
 
 Senftleben, D., V. Eyring, A. Lauer, and M. Righi: Temperature and sea ice hindcast
 skill of the MiKlip decadal prediction system in the Arctic, Met. Z., 27(3), 195-208,
