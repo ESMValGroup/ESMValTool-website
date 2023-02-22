@@ -46,7 +46,7 @@ Venue: Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Oberpfaffenhofen, 
 ### Technical ESMValTool coding workshop
 
 Date: 3-6 June 2019 \
-Venue: Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Oberpfaffenhofen, Germany
+Venue: Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Oberpfaffenhofen, Germany \
 [Workshop Summary](/assets/pdf/4thTechnicalESMValToolWorkshop_190603.pdf)
 
 ### CRESCENDO ESMValTool diagnostics workshop
