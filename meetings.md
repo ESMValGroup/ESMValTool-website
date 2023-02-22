@@ -11,7 +11,7 @@ Venue: UK Met Office, Exeter, UK
 ### 1. Technical ESMValtool workshop 2022
 
 Date: 13-15 June 2022 \
-Venue: Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Oberpfaffenhofen, Germany (hybrid meeting)
+Venue: Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Oberpfaffenhofen, Germany (hybrid meeting) \
 [Workshop Summary](/assets/pdf/Summary_ESMValTool_Workshop_Jun_2022.pdf)
 
 ### 2. Technical ESMValTool workshop 2021
