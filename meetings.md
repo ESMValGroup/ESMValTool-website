@@ -3,7 +3,7 @@ layout: page
 title: Meetings
 ---
 
-### 2. Technical ESMValtool workshop 2023
+### 2. Technical ESMValtool workshop 2022
 
 Date: 18-20 October 2022 \
 Venue: UK Met Office, Exeter, UK
