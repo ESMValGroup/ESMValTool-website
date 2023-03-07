@@ -3,7 +3,7 @@ layout: page
 title: References
 ---
 
-## ESMValTool v2.0
+## ESMValTool v2
 
 <table>
 <thead>
@@ -159,6 +159,50 @@ title: References
   </tr>
   <tr>
   <td>
+  <a href="https://doi.org/10.5194/gmd-16-315-2023">
+  Schlund, M., Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R.,
+  Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J.,
+  Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.:
+  Evaluation of Native Earth System Model Output with ESMValTool v2.6.0,
+  Geosci. Model Dev., 16, 315-333, doi: 10.5194/gmd-16-315-2023, 2023.</a>
+  </td>
+  <td>
+  Earth system models (ESMs) are state-of-the-art climate models that allow
+  numerical simulations of the past, present-day, and future climate. To
+  extend our understanding of the Earth system and improve climate change
+  projections, the complexity of ESMs heavily increased over the last decades.
+  As a consequence, the amount and volume of data provided by ESMs has increased considerably.
+  Innovative tools for a comprehensive model evaluation and analysis are required to assess
+  the performance of these increasingly complex ESMs against observations or reanalyses. One
+  of these tools is the Earth System Model Evaluation Tool (ESMValTool), a community diagnostic
+  and performance metrics tool for the evaluation of ESMs. Input data for ESMValTool needs to
+  be formatted according to the CMOR (Climate Model Output Rewriter) standard, a process that is
+  usually referred to as "CMORization". While this is a quasi-standard for large model intercomparison
+  projects like the Coupled Model Intercomparison Project (CMIP), this complicates the application
+  of ESMValTool to non-CMOR-compliant climate model output.
+  In this paper, we describe an extension of ESMValTool introduced in v2.6.0 that allows seamless
+  reading and processing of "native" climate model output, i.e., operational output produced by
+  running the climate model through the standard workflow of the corresponding modeling institute.
+  This is achieved by an extension of ESMValTool's preprocessing pipeline that performs a CMOR-like
+  reformatting of the native model output during runtime. Thus, the rich collection of diagnostics
+  provided by ESMValTool is now fully available for these models. For models that use unstructured
+  grids, a further preprocessing step required to apply many common diagnostics is regridding to a
+  regular latitude–longitude grid. Extensions to ESMValTool's regridding functions described here
+  allow for more flexible interpolation schemes that can be used on unstructured grids. Currently,
+  ESMValTool supports nearest-neighbor, bilinear, and first-order conservative regridding from
+  unstructured grids to regular grids.
+  Example applications of this new native model support are the evaluation of new model setups against
+  predecessor versions, assessing of the performance of different simulations against observations,
+  CMORization of native model data for contributions to model intercomparison projects, and monitoring
+  of running climate model simulations. For the latter, new general-purpose diagnostics have been added
+  to ESMValTool that are able to plot a wide range of variable types. Currently, five climate models
+  are supported: CESM2 (experimental; at the moment, only surface variables are available), EC-Earth3,
+  EMAC, ICON, and IPSL-CM6. As the framework for the CMOR-like reformatting of native model output
+  described here is implemented in a general way, support for other climate models can be easily added.
+  </td>
+  </tr>
+  <tr>
+  <td>
   <a href="https://doi.org/10.5194/gmd-14-3159-2021">
   Weigel, K., Bock, L., Gier, B. K., Lauer, A., Righi, M., Schlund, M.,
   Adeniyi, K., Andela, B., Arnone, E., Berg, P., Caron, L.-P., Cionni, I.,
@@ -199,7 +243,7 @@ title: References
 </tbody>
 </table>
 
-## ESMValTool v1.0 / v1.1
+## ESMValTool v1
 
 <table>
 <thead>
