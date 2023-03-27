@@ -10,7 +10,9 @@ New versions of the ESMValTool (v2.8.0) and ESMValCore (v2.8.0) have just been r
 -	https://github.com/ESMValGroup/ESMValTool/releases/tag/v2.8.0
 -	https://github.com/ESMValGroup/ESMValCore/releases/tag/v2.8.0 
 
-These version are available, as usual, on GitHub, conda-forge, PyPI and as containers. Please refer to the Changelogs for an overview of the latest changes and additions:
+These versions are available, as usual, on GitHub, conda-forge, PyPI and as containers. 
+
+Please refer to the Changelogs for an overview of the latest changes and additions:
 -	https://docs.esmvaltool.org/en/latest/changelog.html#v2-8-0
 -	https://docs.esmvaltool.org/projects/esmvalcore/en/latest/changelog.html#v2-8-0 
 
@@ -29,7 +31,7 @@ ESMValCore:
 -  **Native [ICON](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/quickstart/find_data.html#read-icon)** output is now made **UGRID-compliant**
    on-the-fly to unlock the use of more sophisticated regridding algorithms.
    
--  The **Python API** has been extended with the addition of three modules: `esmvalcore.config`, `esmvalcore.dataset`, and `esmvalcore.local`. 
+-  The **Python API** has been extended with the addition of three modules: [`esmvalcore.config`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.config.html#module-esmvalcore.config), [`esmvalcore.dataset`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.dataset.html#module-esmvalcore.dataset), and [`esmvalcore.local`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.local.html#module-esmvalcore.local). 
    
    For details, see our new [example notebooks](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/example-notebooks.html).
 
@@ -44,6 +46,6 @@ ESMValTool:
 
 -------------------
 
-Finally, a collection of output from ?? ESMValTool recipes run with version v2.8.0 is available on this portal: https://esmvaltool.dkrz.de/shared/esmvaltool/v2.8.0/ 
+Finally, a collection of output from 148 ESMValTool recipes run with version v2.8.0 is available on this portal: https://esmvaltool.dkrz.de/shared/esmvaltool/v2.8.0/ 
 
 Happy model evaluation with ESMValTool!
