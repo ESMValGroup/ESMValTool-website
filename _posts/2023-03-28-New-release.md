@@ -7,14 +7,14 @@ date: 2023-03-28
 ## ESMValTool v2.8.0 released!
 
 New versions of the ESMValTool (v2.8.0) and ESMValCore (v2.8.0) have just been released:
--	https://github.com/ESMValGroup/ESMValTool/releases/tag/v2.8.0
--	https://github.com/ESMValGroup/ESMValCore/releases/tag/v2.8.0 
+-	[https://github.com/ESMValGroup/ESMValTool/releases/tag/v2.8.0](https://github.com/ESMValGroup/ESMValTool/releases/tag/v2.8.0)
+-	[https://github.com/ESMValGroup/ESMValCore/releases/tag/v2.8.0](https://github.com/ESMValGroup/ESMValCore/releases/tag/v2.8.0) 
 
 These versions are available, as usual, on GitHub, conda-forge, PyPI and as containers. 
 
 Please refer to the Changelogs for an overview of the latest changes and additions:
--	https://docs.esmvaltool.org/en/latest/changelog.html#v2-8-0
--	https://docs.esmvaltool.org/projects/esmvalcore/en/latest/changelog.html#v2-8-0 
+-	[https://docs.esmvaltool.org/en/latest/changelog.html#v2-8-0](https://docs.esmvaltool.org/en/latest/changelog.html#v2-8-0)
+-	[https://docs.esmvaltool.org/projects/esmvalcore/en/latest/changelog.html#v2-8-0](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/changelog.html#v2-8-0) 
 
 -------------------
 
