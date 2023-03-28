@@ -21,28 +21,34 @@ Please refer to the Changelogs for an overview of the latest changes and additio
 ### Highlights:
 ESMValCore:
 
--  ESMValCore now supports **wildcards** in recipes and offers improved support for
-   **ancillary variables** and **dataset versioning**. 
+- ESMValCore now supports **wildcards** in recipes and offers improved support for
+  **ancillary variables** and **dataset versioning**. 
    
-   For details, see [Automatically populating a recipe with all available datasets](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/overview.html#dataset-wildcards) and [Defining supplementary variables](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/overview.html#supplementary-variables).
+  For details, see [Automatically populating a recipe with all available datasets](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/overview.html#dataset-wildcards) and [Defining supplementary variables](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/overview.html#supplementary-variables).
 
--  Support for **CORDEX** datasets in a rotated pole coordinate system has been added.
+- Support for **CORDEX** datasets in a rotated pole coordinate system has been added.
 
--  **Native [ICON](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/quickstart/find_data.html#read-icon)** output is now made **UGRID-compliant**
-   on-the-fly to unlock the use of more sophisticated regridding algorithms.
+- **Native [ICON](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/quickstart/find_data.html#read-icon)** output is now made **UGRID-compliant**
+  on-the-fly to unlock the use of more sophisticated regridding algorithms.
    
--  The **Python API** has been extended with the addition of three modules: [`esmvalcore.config`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.config.html#module-esmvalcore.config), [`esmvalcore.dataset`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.dataset.html#module-esmvalcore.dataset), and [`esmvalcore.local`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.local.html#module-esmvalcore.local). 
+- The **Python API** has been extended with the addition of three modules: [`esmvalcore.config`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.config.html#module-esmvalcore.config), [`esmvalcore.dataset`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.dataset.html#module-esmvalcore.dataset), and [`esmvalcore.local`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.local.html#module-esmvalcore.local). 
    
    For details, see our new [example notebooks](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/example-notebooks.html).
 
--  The preprocessor **[`multi_model_statistics()`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#multi-model-statistics)**
-   has been extended to support more use-cases.
+- The preprocessor **[`multi_model_statistics()`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#multi-model-statistics)**
+  has been extended to support more use-cases.
    
 ESMValTool:
 
-- xxx
-
-- xxx
+- This release has seen the inclusion of the code for four figures of Chapter 3 of the **IPCC AR6 WG1 report**
+  ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar6ch3.html)).
+   
+-  A new set of recipes and diagnostics has been included to **evaluate cloud
+   climatologies** from CMIP models as used in [Lauer et al. (2023)](https://doi.org/10.1175/JCLI-D-22-0181.1) ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_clouds.html)).
+   
+-  We have also included a set of recipes for **extreme events, regional and impact 
+   evaluation** as used in [Weigel et al. (2021)](https://doi.org/10.5194/gmd-14-3159-2021) and in **IPCC AR5**
+   ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html)).
 
 -------------------
 
