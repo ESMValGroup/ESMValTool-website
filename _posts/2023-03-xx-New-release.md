@@ -19,7 +19,7 @@ Please refer to the Changelogs for an overview of the latest changes and additio
 -------------------
 
 ### Highlights:
-ESMValCore:
+#### ESMValCore:
 
 - ESMValCore now supports **wildcards** in recipes and offers improved support for
   **ancillary variables** and **dataset versioning**. 
@@ -38,7 +38,7 @@ ESMValCore:
 - The preprocessor **[`multi_model_statistics()`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#multi-model-statistics)**
   has been extended to support more use-cases.
    
-ESMValTool:
+#### ESMValTool:
 
 - This release includes the diagnostics for reproducing four figures of Chapter 3 of the **IPCC AR6 WG1 report**
   ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar6ch3.html)).
