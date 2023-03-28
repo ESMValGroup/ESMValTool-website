@@ -40,13 +40,13 @@ ESMValCore:
    
 ESMValTool:
 
-- This release has seen the inclusion of the code for four figures of Chapter 3 of the **IPCC AR6 WG1 report**
+- This release includes the diagnostics for reproducing four figures of Chapter 3 of the **IPCC AR6 WG1 report**
   ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar6ch3.html)).
    
 -  A new set of recipes and diagnostics has been included to **evaluate cloud
    climatologies** from CMIP models as used in [Lauer et al. (2023)](https://doi.org/10.1175/JCLI-D-22-0181.1) ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_clouds.html)).
    
--  We have also included a set of recipes for **extreme events, regional and impact 
+-  Addition of a set of recipes for **extreme events, regional and impact 
    evaluation** as used in [Weigel et al. (2021)](https://doi.org/10.5194/gmd-14-3159-2021) and in **IPCC AR5**
    ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html)).
 
