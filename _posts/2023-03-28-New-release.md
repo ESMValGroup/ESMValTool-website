@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESMValTool v2.8.0
-date: 2023-03-xx
+date: 2023-03-28
 ---
 
 ## ESMValTool v2.8.0 released!
