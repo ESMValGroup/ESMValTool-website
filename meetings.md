@@ -3,6 +3,11 @@ layout: page
 title: Meetings
 ---
 
+### 1. ESMValtool workshop 2023
+
+Date: 27-29 June 2023 \
+Venue: SMHI, Norrköping, Sweden
+
 ### 2. Technical ESMValtool workshop 2022
 
 Date: 18-20 October 2022 \
