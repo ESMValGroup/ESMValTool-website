@@ -120,5 +120,21 @@ title: Gallery
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_miles.html">
       recipe_miles_block.yml</a></td>
 </tr>
+<tr>
+  <td><a href="/assets/img/catchments.png"><img src="/assets/img/catchments.png"
+      title="Calculate biases of long-term climatological annual means of total runoff, precipitation and evapotranspiration for 12 large-scale catchments on different continents and climates."></a></td>
+  <td><a href="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SEA-SURFACE-SALINITY_V1.png"><img src="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SEA-SURFACE-SALINITY_V1.png"
+      title="Radar plot showing the mean state biases (simulation minus observations) for the regional averages of sea surface salinity in the selected ocean basins and seas."></a></td>
+  <td><a href="/assets/img/scatterplot_merged_training_data_SHL.png"><img src="/assets/img/scatterplot_merged_training_data_SHL.png"
+      title="Emergent relationship (solid blue and orange lines) of the Sherwood et al. (2014) emergent constraint, which is based on the lower tropospheric mixing index (LTMI)."></a></td>
+</tr>
+<tr>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_runoff_et.html">
+      recipe_runoff_et.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_sea_surface_salinity.html">
+      recipe_sea_surface_salinity.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_schlund20esd.html">
+      recipe_schlund20esd.yml</a></td>
+</tr>
 
 </table>
