@@ -73,6 +73,23 @@ title: Gallery
 </tr>
 
 <tr>
+  <td><a href="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"><img src="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"
+      title="Radar plot showing the mean state biases (simulation minus observations) for the regional averages of sea surface salinity in the selected ocean basins and seas."></a></td>
+  <td><a href="/assets/img/scatterplot_merged_training_data_SHL.png"><img src="/assets/img/scatterplot_merged_training_data_SHL.png"
+      title="Emergent relationship (solid blue and orange lines) of the Sherwood et al. (2014) emergent constraint, which is based on the lower tropospheric mixing index (LTMI)."></a></td>
+  <td><a href="/assets/img/catchments.png"><img src="/assets/img/catchments.png"
+      title="Calculate biases of long-term climatological annual means of total runoff, precipitation and evapotranspiration for 12 large-scale catchments on different continents and climates."></a></td>
+</tr>
+<tr>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_sea_surface_salinity.html">
+      recipe_sea_surface_salinity.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_schlund20esd.html">
+      recipe_schlund20esd.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_runoff_et.html">
+      recipe_runoff_et.yml</a></td>
+</tr>
+
+<tr>
   <td><a href="/assets/img/perfmetrics_fig_1.png"><img src="/assets/img/perfmetrics_fig_1.png"
       title="Annual cycle of globally averaged temperature at 850 hPa (time period 1980-2005) for different CMIP5 models (historical simulation) (thin colored lines) in comparison to ERA-Interim (thick yellow line) and NCEP (thick black dashed line) reanalysis data."></a></td>
   <td><a href="/assets/img/histogram_spi.png"><img src="/assets/img/histogram_spi.png"
@@ -120,21 +137,39 @@ title: Gallery
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_miles.html">
       recipe_miles_block.yml</a></td>
 </tr>
+
 <tr>
-  <td><a href="/assets/img/catchments.png"><img src="/assets/img/catchments.png"
-      title="Calculate biases of long-term climatological annual means of total runoff, precipitation and evapotranspiration for 12 large-scale catchments on different continents and climates."></a></td>
-  <td><a href="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"><img src="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"
-      title="Radar plot showing the mean state biases (simulation minus observations) for the regional averages of sea surface salinity in the selected ocean basins and seas."></a></td>
-  <td><a href="/assets/img/scatterplot_merged_training_data_SHL.png"><img src="/assets/img/scatterplot_merged_training_data_SHL.png"
-      title="Emergent relationship (solid blue and orange lines) of the Sherwood et al. (2014) emergent constraint, which is based on the lower tropospheric mixing index (LTMI)."></a></td>
+  <td><a href="/assets/img/total_Phytoplankton_MPI-ESM1-2-LR_ESACCI-OC_scatter.png"><img src="/assets/img/total_Phytoplankton_MPI-ESM1-2-LR_ESACCI-OC_scatter.png"
+      title="Scatter plot of surface chlorophyll from ESACCI-OC ocean colour data version 5.0 and the MPI-ESM1-2-LR model."></a></td>
+  <td><a href="/assets/img/HadGEM2-CC_NHW_ice_extent_Fractionalcover_1989DJF.png"><img src="/assets/img/HadGEM2-CC_NHW_ice_extent_Fractionalcover_1989DJF.png"
+      title="Northern hemisphere Winter sea ice extent for the HadGem2-CC model."></a></td>
+  <td><a href="/assets/img/MultipleModels_timeseries_drake_1860_2004.png"><img src="/assets/img/MultipleModels_timeseries_drake_1860_2004.png"
+      title="Multi-model time series plot of water transport through the Drake Passage."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_runoff_et.html">
-      recipe_runoff_et.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_sea_surface_salinity.html">
-      recipe_sea_surface_salinity.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_schlund20esd.html">
-      recipe_schlund20esd.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_esacci_oc.html">
+      recipe_esacci_oc.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_oceans.html">
+      recipe_ocean_ice_extent.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_oceans.html">
+      recipe_ocean_amoc.yml</a></td>
 </tr>
+
+<!-- <tr> -->
+<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
+<!--       title=""></a></td> -->
+<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
+<!--       title=""></a></td> -->
+<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
+<!--       title=""></a></td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
+<!--       recipe_.yml</a></td> -->
+<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
+<!--       recipe_.yml</a></td> -->
+<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
+<!--       recipe_.yml</a></td> -->
+<!-- </tr> -->
 
 </table>
