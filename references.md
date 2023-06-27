@@ -3,8 +3,7 @@ layout: page
 title: References
 ---
 
-# Major references related to ESMValTool v2 
-<img src="https://github.com/ESMValGroup/ESMValTool-website/blob/main/assets/img/EVA-logo.png" width="100">
+# Major references related to ESMValTool v2 <img src="https://github.com/ESMValGroup/ESMValTool-website/blob/main/assets/img/EVA-logo.png" width="50">
 
 
 #### Description of the ESMValTool v2 and scientific diagnostics:
