@@ -45,7 +45,7 @@ title: Gallery
   <td><a href="/assets/img/collins_fig2.png"><img src="/assets/img/collins_fig2.png"
       title="Time series of global annual mean surface air temperature anomalie (relative to 1986–2005) from CMIP5 concentration-driven experiments."></a></td>
   <td><a href="/assets/img/autoassess_fig1.png"><img src="/assets/img/autoassess_fig1.png"
-      title="QBO for UKESM1-0-LL."></a></td>
+      title="Using Quasi-Biennial Oscillation (QBO) as measure for tropical variability in the stratosphere. Mean zonal wind at 30hPa defines the period and amplitude of the QBO. QBO for UKESM1-0-LL."></a></td>
 </tr>
 <tr>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_crem.html">
