@@ -123,7 +123,7 @@ title: Gallery
 <tr>
   <td><a href="/assets/img/catchments.png"><img src="/assets/img/catchments.png"
       title="Calculate biases of long-term climatological annual means of total runoff, precipitation and evapotranspiration for 12 large-scale catchments on different continents and climates."></a></td>
-  <td><a href="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SEA-SURFACE-SALINITY_V1.png"><img src="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SEA-SURFACE-SALINITY_V1.png"
+  <td><a href="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"><img src="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"
       title="Radar plot showing the mean state biases (simulation minus observations) for the regional averages of sea surface salinity in the selected ocean basins and seas."></a></td>
   <td><a href="/assets/img/scatterplot_merged_training_data_SHL.png"><img src="/assets/img/scatterplot_merged_training_data_SHL.png"
       title="Emergent relationship (solid blue and orange lines) of the Sherwood et al. (2014) emergent constraint, which is based on the lower tropospheric mixing index (LTMI)."></a></td>
