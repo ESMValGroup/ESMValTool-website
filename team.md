@@ -3,6 +3,11 @@ layout: page
 title: Development team
 ---
 
+## Governance
+
+The [ESMValTool governance can be found here](/assets/pdf/ESMValTool_Governance.pdf). A consortium agreement is
+currently undergoing review by partners.
+
 ## ESMValTool Core Development Team
 
 * Deutsches Zentrum für Luft- und Raumfahrt (DLR), Institut für Physik der Atmosphäre, Germany (Co-PI)
