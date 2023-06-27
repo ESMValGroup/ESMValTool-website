@@ -5,7 +5,15 @@ title: References
 
 # Major references related to ESMValTool v2 <img src="https://github.com/ESMValGroup/ESMValTool-website/blob/main/assets/img/EVA-logo.png" width="50">
 
+<table>
 
+<tr>
+  <td><a href="/assets/img/fig-9-3.png"><img src="/assets/img/fig-9-3.png"
+      title="CMIP5 multi-model mean 2m temperature, multi-model mean of absolute seasonality, multi-model mean bias in seasonality, multi-model mean bias in absolute seasonality; resembling Flato et al. (2013), Fig. 9.3."></a></td>
+  <td><a href="/assets/img/Eyring_2020_gmd-13-3383-2020-avatar.png"><img src="/assets/img/Eyring_2020_gmd-13-3383-2020-avatar.png"
+      title="Test."></a></td>
+</tr>
+</table>
 #### Description of the ESMValTool v2 and scientific diagnostics:
 
 |  |  |
