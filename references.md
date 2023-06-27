@@ -5,20 +5,11 @@ title: References
 
 # Major references related to ESMValTool v2 <img src="https://github.com/ESMValGroup/ESMValTool-website/blob/main/assets/img/EVA-logo.png" width="50">
 
-<table>
-
-<tr>
-  <td><a href="/assets/img/fig-9-3.png"><img src="/assets/img/fig-9-3.png"
-      title="CMIP5 multi-model mean 2m temperature, multi-model mean of absolute seasonality, multi-model mean bias in seasonality, multi-model mean bias in absolute seasonality; resembling Flato et al. (2013), Fig. 9.3."></a></td>
-  <td><a href="/assets/img/Eyring_2020_gmd-13-3383-2020-avatar.png"><img src="/assets/img/Eyring_2020_gmd-13-3383-2020-avatar.png"
-      title="Test."></a></td>
-</tr>
-</table>
 #### Description of the ESMValTool v2 and scientific diagnostics:
 
 |  |  |
 | ------ | ----------- |
-|**Eyring, V.**, Bock, L., Lauer, A., Righi, M., Schlund, M., Andela, B., Arnone, E., Bellprat, O., Brötz, B., Caron, L.-P., Carvalhais, N., Cionni, I., Cortesi, N., Crezee, B., Davin, E. L., Davini, P., Debeire, K., de Mora, L., Deser, C., Docquier, D., Earnshaw, P., Ehbrecht, C., Gier, B. K., Gonzalez-Reviriego, N., Goodman, P., Hagemann, S., Hardiman, S., Hassler, B., Hunter, A., Kadow, C., Kindermann, S., Koirala, S., Koldunov, N., Lejeune, Q., Lembo, V., Lovato, T., Lucarini, V., Massonnet, F., Müller, B., Pandde, A., Pérez-Zanón, N., Phillips, A., Predoi, V., Russell, J., Sellar, A., Serva, F., Stacke, T., Swaminathan, R., Torralba, V., Vegas-Regidor, J., von Hardenberg, J., Weigel, K., and Zimmermann, K.: **Earth System Model Evaluation Tool (ESMValTool) v2.0 – an extended set of large-scale diagnostics for quasi-operational and comprehensive evaluation of Earth system models in CMIP**, Geosci. Model Dev., 13, 3383–3438, https://doi.org/10.5194/gmd-13-3383-2020, 2020. | <img src="https://github.com/ESMValGroup/ESMValTool-website/blob/improving_references/assets/img/Eyring_2020_gmd-13-3383-2020-avatar.png" width="100" height="100"> |
+|**Eyring, V.**, Bock, L., Lauer, A., Righi, M., Schlund, M., Andela, B., Arnone, E., Bellprat, O., Brötz, B., Caron, L.-P., Carvalhais, N., Cionni, I., Cortesi, N., Crezee, B., Davin, E. L., Davini, P., Debeire, K., de Mora, L., Deser, C., Docquier, D., Earnshaw, P., Ehbrecht, C., Gier, B. K., Gonzalez-Reviriego, N., Goodman, P., Hagemann, S., Hardiman, S., Hassler, B., Hunter, A., Kadow, C., Kindermann, S., Koirala, S., Koldunov, N., Lejeune, Q., Lembo, V., Lovato, T., Lucarini, V., Massonnet, F., Müller, B., Pandde, A., Pérez-Zanón, N., Phillips, A., Predoi, V., Russell, J., Sellar, A., Serva, F., Stacke, T., Swaminathan, R., Torralba, V., Vegas-Regidor, J., von Hardenberg, J., Weigel, K., and Zimmermann, K.: **Earth System Model Evaluation Tool (ESMValTool) v2.0 – an extended set of large-scale diagnostics for quasi-operational and comprehensive evaluation of Earth system models in CMIP**, Geosci. Model Dev., 13, 3383–3438, https://doi.org/10.5194/gmd-13-3383-2020, 2020. | <img src="https://github.com/ESMValGroup/ESMValTool-website/blob/improving_references/assets/img/Eyring_2020_gmd-13-3383-2020-avatar.png" width="500" height="500"> |
 
 + **Lauer, A.**, Eyring, V., Bellprat, O., Bock, L., Gier, B. K., Hunter, A., Lorenz, R., Pérez-Zanón, N., Righi, M., Schlund, M., Senftleben, D., Weigel, K., and Zechlau, S.: **Earth System Model Evaluation Tool (ESMValTool) v2.0 – diagnostics for emergent constraints and future projections from Earth system models in CMIP**, Geosci. Model Dev., 13, 4205–4228, https://doi.org/10.5194/gmd-13-4205-2020, 2020
 
