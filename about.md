@@ -7,17 +7,18 @@ title: About
 
 ![ESMValTool-logo](/assets/img/EVA-logo.png){:style="float: left;margin-right: 16px;margin-top: 16px;"}
 
-The Earth System Model Evaluation Tool (ESMValTool) is an open source community-developed diagnostics
-and performance metrics tool for evaluation and analysis of Earth System Models (ESMs). ESMValTool
-allows for comparison of single or multiple models, either against predecessor versions or against
-observations. While originally designed to facilitate a more comprehensive and rapid comparison of
-single or multiple models participating in the [Coupled Model Intercomparison Project (CMIP)](https://www.wcrp-climate.org/wgcm-cmip),
-the tool can also be used to analyze output from regional models, a large variety of gridded observational data
-and reanalysis datasets. The aim of the ESMValTool is to take model evaluation to the next level by
+The Earth System Model Evaluation Tool (ESMValTool) is an open-source community-developed diagnostics
+and performance metrics tool for the evaluation and analysis of Earth System Models (ESMs). ESMValTool
+allows for a comparison of single or multiple models, either against predecessor versions or against
+observations. The aim of the ESMValTool is to take model evaluation to the next level by
 facilitating analysis of many different ESM components, providing well-documented source code and
 scientific background of implemented diagnostics. Traceability and reproducibility of the results are
-ensured by providing detailed provenance records for all output. The development of ESMValTool is supported
-by a multitude of [national and international projects](https://www.esmvaltool.org/acknowledgements).
+ensured by providing detailed provenance records for all output. While originally designed to facilitate
+a more comprehensive and rapid evaluation of models participating in the
+[Coupled Model Intercomparison Project (CMIP)](https://www.wcrp-climate.org/wgcm-cmip),
+the tool can also be used to analyze output from regional models, a large variety of gridded observational data
+and reanalysis datasets. The development of ESMValTool is supported by several
+[national and international projects](https://www.esmvaltool.org/acknowledgements).
 ESMValTool has been in several chapters of the
 [Assessment Report 6 of the IPCC’s WG1](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/).
 
