@@ -5,7 +5,7 @@ title: Development team
 
 ## Governance
 
-The [ESMValTool governance can be found here](/assets/pdf/ESMValTool_Governance.pdf). A consortium agreement is
+The [ESMValTool governance structure is described here](/assets/pdf/ESMValTool_Governance.pdf). A consortium agreement is
 currently undergoing review by partners.
 
 ## ESMValTool Core Development Team
