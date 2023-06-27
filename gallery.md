@@ -16,7 +16,7 @@ title: Gallery
       title="Lower tropospheric mixing index (LTMI; Sherwood et al., 2014) vs. equilibrium climate sensitivity from CMIP5 models."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_flato13ipcc.html">
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
       recipe_flato13ipcc.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_perfmetrics.html">
 	  recipe_perfmetrics_CMIP5.yml</a></td>
@@ -32,9 +32,9 @@ title: Gallery
       title="Mean number of days exceeding the Diurnal Temperature Range (DTR) simulated during the historical period (1961-1990) by 5 degrees during the period 2030-2080. The result is derived from one RCP 8.5 scenario simulated by MPI-ESM-MR."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_flato13ipcc.html">
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
 	  recipe_flato13ipcc.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_flato13ipcc.html">
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
 	  recipe_flato13ipcc.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_diurnal_temperature_index.html">
 	  recipe_diurnal_index.yml</a></td>
@@ -98,7 +98,7 @@ title: Gallery
 </tr>
 <tr>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_hyint.html">
-      recipe_hyint.yml</a></p></td>
+      recipe_hyint.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_cox18nature.html">
       recipe_cox18_nature.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_extreme_events.html">
