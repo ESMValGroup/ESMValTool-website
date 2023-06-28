@@ -18,7 +18,7 @@ title: References
 
 + <img align="right" width="170" height="150" src="/assets/img/Righi_2020_gmd-13-1179-2020-avatar.png"> **Righi, M.**, Andela, B., Eyring, V., Lauer, A., Predoi, V., Schlund, M., Vegas-Regidor, J., Bock, L., Brötz, B., de Mora, L., Diblen, F., Dreyer, L., Drost, N., Earnshaw, P., Hassler, B., Koldunov, N., Little, B., Loosveldt Tomas, S., and Zimmermann, K.: **Earth System Model Evaluation Tool (ESMValTool) v2.0 – technical overview**, Geosci. Model Dev., 13, 1179–1199, https://doi.org/10.5194/gmd-13-1179-2020, 2020.
 
-#### Application of “native” climate model output:
+#### Processing “native” climate model output
 
 + <img align="right" width="150" height="150" src="https://github.com/ESMValGroup/ESMValTool-website/blob/improving_references/assets/img/Schlund_2023-gmd-16-315-2023-avatar.png">**Schlund, M.**, Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R., Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J., Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: **Evaluation of native Earth system model output with ESMValTool v2.6.0**, Geosci. Model Dev., 16, 315–333, https://doi.org/10.5194/gmd-16-315-2023, 2023.
 
