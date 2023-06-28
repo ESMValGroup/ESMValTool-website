@@ -16,7 +16,7 @@ title: Gallery
       title="Lower tropospheric mixing index (LTMI; Sherwood et al., 2014) vs. equilibrium climate sensitivity from CMIP5 models."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_flato13ipcc.html">
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
       recipe_flato13ipcc.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_perfmetrics.html">
 	  recipe_perfmetrics_CMIP5.yml</a></td>
@@ -32,9 +32,9 @@ title: Gallery
       title="Mean number of days exceeding the Diurnal Temperature Range (DTR) simulated during the historical period (1961-1990) by 5 degrees during the period 2030-2080. The result is derived from one RCP 8.5 scenario simulated by MPI-ESM-MR."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_flato13ipcc.html">
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
 	  recipe_flato13ipcc.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_flato13ipcc.html">
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
 	  recipe_flato13ipcc.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_diurnal_temperature_index.html">
 	  recipe_diurnal_index.yml</a></td>
@@ -45,7 +45,7 @@ title: Gallery
   <td><a href="/assets/img/collins_fig2.png"><img src="/assets/img/collins_fig2.png"
       title="Time series of global annual mean surface air temperature anomalie (relative to 1986–2005) from CMIP5 concentration-driven experiments."></a></td>
   <td><a href="/assets/img/autoassess_fig1.png"><img src="/assets/img/autoassess_fig1.png"
-      title="QBO for UKESM1-0-LL."></a></td>
+      title="Using Quasi-Biennial Oscillation (QBO) as measure for tropical variability in the stratosphere. Mean zonal wind at 30hPa defines the period and amplitude of the QBO. QBO for UKESM1-0-LL."></a></td>
 </tr>
 <tr>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_crem.html">
@@ -70,6 +70,23 @@ title: Gallery
       recipe_zmnam.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_russell18jgr.html">
       recipe_russell18jgr.yml</a></td>
+</tr>
+
+<tr>
+  <td><a href="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"><img src="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"
+      title="Radar plot showing the mean state biases (simulation minus observations) for the regional averages of sea surface salinity in the selected ocean basins and seas."></a></td>
+  <td><a href="/assets/img/scatterplot_merged_training_data_SHL.png"><img src="/assets/img/scatterplot_merged_training_data_SHL.png"
+      title="Emergent relationship (solid blue and orange lines) of the Sherwood et al. (2014) emergent constraint, which is based on the lower tropospheric mixing index (LTMI)."></a></td>
+  <td><a href="/assets/img/catchments.png"><img src="/assets/img/catchments.png"
+      title="Calculate biases of long-term climatological annual means of total runoff, precipitation and evapotranspiration for 12 large-scale catchments on different continents and climates."></a></td>
+</tr>
+<tr>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_sea_surface_salinity.html">
+      recipe_sea_surface_salinity.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_schlund20esd.html">
+      recipe_schlund20esd.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_runoff_et.html">
+      recipe_runoff_et.yml</a></td>
 </tr>
 
 <tr>
@@ -98,7 +115,7 @@ title: Gallery
 </tr>
 <tr>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_hyint.html">
-      recipe_hyint.yml</a></p></td>
+      recipe_hyint.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_cox18nature.html">
       recipe_cox18_nature.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_extreme_events.html">
@@ -120,5 +137,39 @@ title: Gallery
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_miles.html">
       recipe_miles_block.yml</a></td>
 </tr>
+
+<tr>
+  <td><a href="/assets/img/total_Phytoplankton_MPI-ESM1-2-LR_ESACCI-OC_scatter.png"><img src="/assets/img/total_Phytoplankton_MPI-ESM1-2-LR_ESACCI-OC_scatter.png"
+      title="Scatter plot of surface chlorophyll from ESACCI-OC ocean colour data version 5.0 and the MPI-ESM1-2-LR model."></a></td>
+  <td><a href="/assets/img/HadGEM2-CC_NHW_ice_extent_Fractionalcover_1989DJF.png"><img src="/assets/img/HadGEM2-CC_NHW_ice_extent_Fractionalcover_1989DJF.png"
+      title="Northern hemisphere Winter sea ice extent for the HadGem2-CC model."></a></td>
+  <td><a href="/assets/img/MultipleModels_timeseries_drake_1860_2004.png"><img src="/assets/img/MultipleModels_timeseries_drake_1860_2004.png"
+      title="Multi-model time series plot of water transport through the Drake Passage."></a></td>
+</tr>
+<tr>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_esacci_oc.html">
+      recipe_esacci_oc.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_oceans.html">
+      recipe_ocean_ice_extent.yml</a></td>
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_oceans.html">
+      recipe_ocean_amoc.yml</a></td>
+</tr>
+
+<!-- <tr> -->
+<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
+<!--       title=""></a></td> -->
+<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
+<!--       title=""></a></td> -->
+<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
+<!--       title=""></a></td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
+<!--       recipe_.yml</a></td> -->
+<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
+<!--       recipe_.yml</a></td> -->
+<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
+<!--       recipe_.yml</a></td> -->
+<!-- </tr> -->
 
 </table>
