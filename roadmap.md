@@ -3,12 +3,14 @@ layout: page
 title: Roadmap
 ---
 
+# This road map is currently under revision. An update will be posted soon. #
+
 ## Purpose
 
 This roadmap outlines the ESMValTool development planned including a rough
 time line and (if applicable) the project funding these activities.
 
-**Please add your contributions by sending an email to Remi Kazeroni (Technical Support)**
+**Please add your contributions by sending an email to <a href="javascript:mail('remi.kazeroni','dlr.de')">Remi Kazeroni (Technical Support)</a>**
 
 ## ESMValTool development by project (roadmap)
 
