@@ -20,7 +20,7 @@ title: References
 
 #### Processing “native” climate model output
 
-+ <img align="right" width="150" height="150" src="https://github.com/ESMValGroup/ESMValTool-website/blob/improving_references/assets/img/Schlund_2023-gmd-16-315-2023-avatar.png">**Schlund, M.**, Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R., Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J., Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: **Evaluation of native Earth system model output with ESMValTool v2.6.0**, Geosci. Model Dev., 16, 315–333, https://doi.org/10.5194/gmd-16-315-2023, 2023.
++ <img align="right" width="150" height="150" src="/assets/img/Schlund_2023-gmd-16-315-2023-avatar.png">**Schlund, M.**, Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R., Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J., Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: **Evaluation of native Earth system model output with ESMValTool v2.6.0**, Geosci. Model Dev., 16, 315–333, https://doi.org/10.5194/gmd-16-315-2023, 2023.
 
 # Further Related References
 
@@ -35,4 +35,4 @@ title: References
   model evaluation in CMIP**, Earth Syst. Dynam., 7,
   813-830,  https://doi.org/10.5194/esd-7-813-2016, 2016b.
 
-+ <img align="right" width="150" height="150" src="https://github.com/ESMValGroup/ESMValTool-website/blob/improving_references/assets/img/Lauer_2017_j.rse-01-007-2017-avatar.png"> **Lauer, A.**, V. Eyring, M. Righi, M. Buchwitz, P. Defourny, M. Evaldsson, P. Friedlingstein, R. de Jeuf, G. de Leeuw, A. Loew, C. J. Merchant, B. Müller, T. Popp, M. Reuter, S. Sandven, D. Senftleben, M. Stengel, M. Van Roozendael, S. Wenzel, and U. Willén: **Benchmarking CMIP5 models with a subset of ESA CCI Phase 2 data using the ESMValTool**, Remote Sensing of Environment, 203, 9-39, https://doi.org/10.1016/j.rse.2017.01.007, 2017.
++ <img align="right" width="150" height="150" src="/assets/img/Lauer_2017_j.rse-01-007-2017-avatar.png"> **Lauer, A.**, V. Eyring, M. Righi, M. Buchwitz, P. Defourny, M. Evaldsson, P. Friedlingstein, R. de Jeuf, G. de Leeuw, A. Loew, C. J. Merchant, B. Müller, T. Popp, M. Reuter, S. Sandven, D. Senftleben, M. Stengel, M. Van Roozendael, S. Wenzel, and U. Willén: **Benchmarking CMIP5 models with a subset of ESA CCI Phase 2 data using the ESMValTool**, Remote Sensing of Environment, 203, 9-39, https://doi.org/10.1016/j.rse.2017.01.007, 2017.
