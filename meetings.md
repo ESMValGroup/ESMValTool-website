@@ -7,7 +7,7 @@ title: Meetings
 
 Date: 27-29 June 2023 \
 Venue: SMHI, Norrköping, Sweden
-Agenda: [Workshop agenda](/assets/pdf/Agenda_ESMValTool_Workshop_Jun_2023.pdf)
+Agenda: [Workshop agenda](/assets/pdf/ESMValTool_workshop_agenda_June_2023.pdf)
 
 ### 2. Technical ESMValtool workshop 2022
 
