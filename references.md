@@ -24,7 +24,7 @@ title: References
 
 # Further Related References
 
-#### ESMValTool v1:
+#### ESMValTool v1
 +  <img align="right" width="150" height="150" src="/assets/img/Eyring_2016a-gmd-9-1747-2016-avatar.png"> **Eyring, V.**, Righi, M., Lauer, A., Evaldsson, M., Wenzel, S., Jones, C., Anav, A., Andrews, O., Cionni, I., Davin, E. L., Deser, C., Ehbrecht, C., Friedlingstein, P., Gleckler, P., Gottschaldt, K.-D., Hagemann, S., Juckes, M., Kindermann, S., Krasting, J., Kunert, D., Levine, R., Loew, A., Mäkelä, J., Martin, G., Mason, E., Phillips, A. S., Read, S., Rio, C., Roehrig, R., Senftleben, D., Sterl, A., van Ulft, L. H., Walton, J., Wang, S., and Williams, K. D.: **ESMValTool (v1.0) – a community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP**, Geosci. Model Dev., 9, 1747–1802, https://doi.org/10.5194/gmd-9-1747-2016, 2016a.
 
 + <img align="right" width="180" height="130" src="/assets/img/Eyring_2016b-esd-7-813-2016-avatar.png"> **Eyring, V.**, Gleckler, P. J., Heinze, C., Stouffer, R. J.,
