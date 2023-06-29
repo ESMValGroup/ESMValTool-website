@@ -6,7 +6,7 @@ title: Meetings
 ### 1. ESMValtool community workshop 2023
 
 Date: 27-29 June 2023 \
-Venue: SMHI, Norrköping, Sweden (hybrid meeting)
+Venue: SMHI, Norrköping, Sweden (hybrid meeting) \
 Agenda: [Workshop agenda](/assets/pdf/ESMValTool_workshop_agenda_June_2023.pdf)
 
 ### 2. Technical ESMValtool workshop 2022
