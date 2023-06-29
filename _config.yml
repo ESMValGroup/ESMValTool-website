@@ -19,7 +19,7 @@ navbar-links:
     - About: "about"
     - Documentation: "documentation"
     - Gallery: "gallery"
-    - License: "license"
+    - License: "esmvaltool_license"
     - References: "references"
     - Roadmap: "roadmap"
     - Tutorial: "tutorial"
