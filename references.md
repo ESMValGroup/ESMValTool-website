@@ -16,23 +16,20 @@ title: References
 
 #### Technical description
 
-+ <img align="right" width="170" height="150" src="/assets/img/Righi_2020_gmd-13-1179-2020-avatar.png"> **Righi, M.**, Andela, B., Eyring, V., Lauer, A., Predoi, V., Schlund, M., Vegas-Regidor, J., Bock, L., Brötz, B., de Mora, L., Diblen, F., Dreyer, L., Drost, N., Earnshaw, P., Hassler, B., Koldunov, N., Little, B., Loosveldt Tomas, S., and Zimmermann, K.: **Earth System Model Evaluation Tool (ESMValTool) v2.0 – technical overview**, Geosci. Model Dev., 13, 1179–1199, https://doi.org/10.5194/gmd-13-1179-2020, 2020.
++ <img align="right" width="170" src="/assets/img/Righi_2020_gmd-13-1179-2020-avatar.png"> **Righi, M.**, Andela, B., Eyring, V., Lauer, A., Predoi, V., Schlund, M., Vegas-Regidor, J., Bock, L., Brötz, B., de Mora, L., Diblen, F., Dreyer, L., Drost, N., Earnshaw, P., Hassler, B., Koldunov, N., Little, B., Loosveldt Tomas, S., and Zimmermann, K.: **Earth System Model Evaluation Tool (ESMValTool) v2.0 – technical overview**, Geosci. Model Dev., 13, 1179–1199, https://doi.org/10.5194/gmd-13-1179-2020, 2020.
 
 #### Processing “native” climate model output
 
-+ <img align="right" width="150" height="150" src="/assets/img/Schlund_2023-gmd-16-315-2023-avatar.png">**Schlund, M.**, Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R., Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J., Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: **Evaluation of native Earth system model output with ESMValTool v2.6.0**, Geosci. Model Dev., 16, 315–333, https://doi.org/10.5194/gmd-16-315-2023, 2023.
++ <img align="right" width="170" src="/assets/img/Schlund_2023-gmd-16-315-2023-avatar.png">**Schlund, M.**, Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R., Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J., Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: **Evaluation of native Earth system model output with ESMValTool v2.6.0**, Geosci. Model Dev., 16, 315–333, https://doi.org/10.5194/gmd-16-315-2023, 2023.
 
 # Further Related References
 
 #### ESMValTool v1
-+  <img align="right" width="150" height="150" src="/assets/img/Eyring_2016a-gmd-9-1747-2016-avatar.png"> **Eyring, V.**, Righi, M., Lauer, A., Evaldsson, M., Wenzel, S., Jones, C., Anav, A., Andrews, O., Cionni, I., Davin, E. L., Deser, C., Ehbrecht, C., Friedlingstein, P., Gleckler, P., Gottschaldt, K.-D., Hagemann, S., Juckes, M., Kindermann, S., Krasting, J., Kunert, D., Levine, R., Loew, A., Mäkelä, J., Martin, G., Mason, E., Phillips, A. S., Read, S., Rio, C., Roehrig, R., Senftleben, D., Sterl, A., van Ulft, L. H., Walton, J., Wang, S., and Williams, K. D.: **ESMValTool (v1.0) – a community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP**, Geosci. Model Dev., 9, 1747–1802, https://doi.org/10.5194/gmd-9-1747-2016, 2016a.
 
-+ <img align="right" width="180" height="130" src="/assets/img/Eyring_2016b-esd-7-813-2016-avatar.png"> **Eyring, V.**, Gleckler, P. J., Heinze, C., Stouffer, R. J.,
-  Taylor, K. E., Balaji, V., Guilyardi, E.,
-  Joussaume, S., Kindermann, S., Lawrence, B. N.,
-  Meehl, G. A., Righi, M., and Williams, D. N.:
-  **Towards improved and more routine Earth system
-  model evaluation in CMIP**, Earth Syst. Dynam., 7,
-  813-830,  https://doi.org/10.5194/esd-7-813-2016, 2016b.
++  <img align="right" width="150" height="150" src="/assets/img/Eyring_2016a-gmd-9-1747-2016-avatar.png"> **Eyring, V.**, Righi, M., Lauer, A., Evaldsson, M., Wenzel, S., Jones, C., Anav, A., Andrews, O., Cionni, I., Davin, E. L., Deser, C., Ehbrecht, C., Friedlingstein, P., Gleckler, P., Gottschaldt, K.-D., Hagemann, S., Juckes, M., Kindermann, S., Krasting, J., Kunert, D., Levine, R., Loew, A., Mäkelä, J., Martin, G., Mason, E., Phillips, A. S., Read, S., Rio, C., Roehrig, R., Senftleben, D., Sterl, A., van Ulft, L. H., Walton, J., Wang, S., and Williams, K. D.: **ESMValTool (v1.0) – a community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP**, Geosci. Model Dev., 9, 1747–1802, https://doi.org/10.5194/gmd-9-1747-2016, 2016.
 
 + <img align="right" width="150" height="150" src="/assets/img/Lauer_2017_j.rse-01-007-2017-avatar.png"> **Lauer, A.**, V. Eyring, M. Righi, M. Buchwitz, P. Defourny, M. Evaldsson, P. Friedlingstein, R. de Jeuf, G. de Leeuw, A. Loew, C. J. Merchant, B. Müller, T. Popp, M. Reuter, S. Sandven, D. Senftleben, M. Stengel, M. Van Roozendael, S. Wenzel, and U. Willén: **Benchmarking CMIP5 models with a subset of ESA CCI Phase 2 data using the ESMValTool**, Remote Sensing of Environment, 203, 9-39, https://doi.org/10.1016/j.rse.2017.01.007, 2017.
+
+#### Other associated references
+
++ <img align="right" width="180" height="130" src="/assets/img/Eyring_2016b-esd-7-813-2016-avatar.png"> **Eyring, V.**, Gleckler, P. J., Heinze, C., Stouffer, R. J., Taylor, K. E., Balaji, V., Guilyardi, E.,  Joussaume, S., Kindermann, S., Lawrence, B. N.,  Meehl, G. A., Righi, M., and Williams, D. N.: **Towards improved and more routine Earth system model evaluation in CMIP**, Earth Syst. Dynam., 7,  813-830,  https://doi.org/10.5194/esd-7-813-2016, 2016.
