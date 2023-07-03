@@ -21,22 +21,7 @@ Please refer to the Changelogs for an overview of the latest changes and additio
 ### Highlights:
 #### ESMValCore:
 
-- ESMValCore now supports **wildcards** in recipes and offers improved support for
-  **ancillary variables** and **dataset versioning**. 
-   
-  For details, see [Automatically populating a recipe with all available datasets](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/overview.html#dataset-wildcards) and [Defining supplementary variables](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/overview.html#supplementary-variables).
-
-- Support for **CORDEX** datasets in a rotated pole coordinate system has been added.
-
-- **Native [ICON](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/quickstart/find_data.html#read-icon)** output is now made **UGRID-compliant**
-  on-the-fly to unlock the use of more sophisticated regridding algorithms.
-   
-- The **Python API** has been extended with the addition of three modules: [`esmvalcore.config`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.config.html#module-esmvalcore.config), [`esmvalcore.dataset`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.dataset.html#module-esmvalcore.dataset), and [`esmvalcore.local`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/api/esmvalcore.local.html#module-esmvalcore.local). 
-   
-   For details, see our new [example notebooks](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/example-notebooks.html).
-
-- The preprocessor **[`multi_model_statistics()`](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#multi-model-statistics)**
-  has been extended to support more use-cases.
+- It is now possible to use the Dask distributed scheduler, which can significantly reduce the run-time of recipes. Configuration examples and advice are available in our documentation. More work on improving the computational performance is planned, so please share your experiences, good and bad, with this new feature in ESMValGroup/ESMValCore#1763.
    
 #### ESMValTool:
 
