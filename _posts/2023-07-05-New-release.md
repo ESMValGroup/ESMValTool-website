@@ -25,8 +25,8 @@ Please refer to the Changelogs for an overview of the latest changes and additio
    
 #### ESMValTool:
 
-- A new :ref:`diagnostic <api.esmvaltool.diag_scripts.seaborn_diag>` has been added to provide a **high-level interface to** [**seaborn**] (https://seaborn.pydata.org/),
-   a Python data visualization library based on [matplotlib] (https://matplotlib.org/).
+- A **new diagnostic** has been added to provide a **high-level interface to** [**seaborn**](https://seaborn.pydata.org/),
+   a Python data visualization library based on [matplotlib](https://matplotlib.org/).
   
 -  This release includes a **new recipe and diagnostic** that represent the major physical processes that describe **Arctic-midlatitude teleconnections** and
    provide the basis for the CMIP6 model evaluation for the further application of causal discovery. The results are discussed in [Galytska et al. (in review in Journal of Geophysical Research: Atmospheres)](https://essopenarchive.org/doi/full/10.1002/essoar.10512569.1).
