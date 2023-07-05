@@ -21,19 +21,15 @@ Please refer to the Changelogs for an overview of the latest changes and additio
 ### Highlights:
 #### ESMValCore:
 
-- It is now possible to use the Dask distributed scheduler, which can significantly reduce the run-time of recipes. Configuration examples and advice are available in our documentation. More work on improving the computational performance is planned, so please share your experiences, good and bad, with this new feature in ESMValGroup/ESMValCore#1763.
+- It is now possible to use the [**Dask distributed scheduler**](https://docs.dask.org/en/latest/deploying.html), which can significantly reduce the run-time of recipes. Configuration examples and advice are available in our [documentation](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/quickstart/configure.html#config-dask).
    
 #### ESMValTool:
 
-- This release includes the diagnostics for reproducing four figures of Chapter 3 of the **IPCC AR6 WG1 report**
-  ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar6ch3.html)).
-   
--  A new set of recipes and diagnostics has been included to **evaluate cloud
-   climatologies** from CMIP models as used in [Lauer et al. (2023)](https://doi.org/10.1175/JCLI-D-22-0181.1) ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_clouds.html)).
-   
--  Addition of a set of recipes for **extreme events, regional and impact 
-   evaluation** as used in [Weigel et al. (2021)](https://doi.org/10.5194/gmd-14-3159-2021) and in **IPCC AR5**
-   ([Link to documentation](https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html)).
+- A new :ref:`diagnostic <api.esmvaltool.diag_scripts.seaborn_diag>` has been added to provide a **high-level interface to** [**seaborn**] (https://seaborn.pydata.org/),
+   a Python data visualization library based on [matplotlib] (https://matplotlib.org/).
+  
+-  This release includes a **new recipe and diagnostic** that represent the major physical processes that describe **Arctic-midlatitude teleconnections** and
+   provide the basis for the CMIP6 model evaluation for the further application of causal discovery. The results are discussed in [Galytska et al. (in review in Journal of Geophysical Research: Atmospheres)](https://essopenarchive.org/doi/full/10.1002/essoar.10512569.1).
 
 -------------------
 
