@@ -33,6 +33,6 @@ Please refer to the Changelogs for an overview of the latest changes and additio
 
 -------------------
 
-Finally, a collection of output from 153 ESMValTool recipes run with version v2.9.0 is available on this portal: https://esmvaltool.dkrz.de/shared/esmvaltool/v2.9.0rc1/debug.html 
+Finally, a collection of output from 153 ESMValTool recipes run with version v2.9.0 is available on this portal: https://esmvaltool.dkrz.de/shared/esmvaltool/v2.9.0/ 
 
 Happy model evaluation with ESMValTool!
