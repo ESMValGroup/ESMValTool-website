@@ -19,7 +19,7 @@ a more comprehensive and rapid evaluation of models participating in the
 the tool can also be used to analyze output from regional models, a large variety of gridded observational data
 and reanalysis datasets. The development of ESMValTool is supported by several
 [national and international projects](https://www.esmvaltool.org/acknowledgements).
-ESMValTool has been in several chapters of the
+ESMValTool has been used in several chapters of the
 [Working Group I contribution to the Intergovernmental Panel on Climate Change's Sixth Assessment Report (IPCC AR6)](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/).
 
 ## Main Features
