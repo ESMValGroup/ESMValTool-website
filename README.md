@@ -2,7 +2,7 @@
 
 # About
 
-This repository is used via GitHub pages to create and host the [ESMValTool website](https://www.esmvaltool.org/).
+This repository is used to create the [ESMValTool website](https://www.esmvaltool.org/).
 The website is based on the template [Beautiful Jekyll](https://beautifuljekyll.com/) by [Dean Attali](https://deanattali.com).
 
 # Contributions
