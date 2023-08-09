@@ -226,7 +226,7 @@ flux boundary condition, Meteorologische Zeitschrift, 26(6), 663-687,
 [doi: 10.1127/metz/2016/0776](https://doi.org/10.1127/metz/2016/0776), 2017.
 
 Rautenhaus, M., Bottinger, M., Siemen, S., Hoffman, R., Kirby, R. M., Mirzargar, M.,
-Rober, N. and Westermann, R.: Visualization in meteorologyA survey of techniques
+Rober, N. and Westermann, R.: Visualization in meteorology - A survey of techniques
 and tools for data analysis tasks, IEEE Transactions on Visualization and Computer
 Graphics, 24(12), 3268-3296,
 [doi: 10.1109/tvcg.2017.2779501](https://doi.org/10.1109/tvcg.2017.2779501), 2018.
@@ -354,6 +354,11 @@ Eyring, V.: Earth System Model Evaluation Tool (ESMValTool) v2.0 - diagnostics f
 extreme events, regional and impact evaluation, and analysis of Earth system models
 in CMIP, Geosci. Model Dev., 14, 3159-3184,
 [doi: 10.5194/gmd-14-3159-2021](https://doi.org/10.5194/gmd-14-3159-2021), 2021.
+
+Zechlau, S., Schlund, M., Cox, P. M., Friedlingstein, P., and Eyring. V.:
+Do Emergent Constraints on Carbon Cycle Feedbacks Hold in CMIP6?
+Journal of Geophysical Research: Biogeosciences, 127, e2022JG006985, 
+[doi: 10.1029/2022JG006985](https://doi.org/10.1029/2022JG006985), 2022.
 
 Zscheischler, J., Westra, S., Hurk, B. J. J. M. van den, Seneviratne, S. I.,
 Ward, P. J., Pitman, A., AghaKouchak, A., Bresch, D. N., Leonard, M., Wahl, T. and
