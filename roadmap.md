@@ -8,9 +8,9 @@ title: Roadmap
 ## Purpose
 
 This roadmap outlines the ESMValTool development planned including a rough
-time line and (if applicable) the project funding these activities.
+timeline and (if applicable) the project funding these activities.
 
-**Please add your contributions by sending an email to <a href="javascript:mail('remi.kazeroni','dlr.de')">Remi Kazeroni (Technical Support)</a>**
+**Please add your contributions by sending an email to <a href="javascript:mail('birgit.hassler','dlr.de')">Birgit Hassler</a>**
 
 ## ESMValTool development by project (roadmap)
 
