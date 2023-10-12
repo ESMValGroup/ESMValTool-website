@@ -108,6 +108,11 @@ Folini, D.: Climate, weather, space weather: Model development in an operational
 Journal of Space Weather and Space Climate, 8, A32,
 [doi: 10.1051/swsc/2018021](https://doi.org/10.1051/swsc/2018021), 2018.
 
+Galytska, E., Weigel, K., Handorf, D., Jaiser, R., Köhler, R., Runge, J., and Eyring, V.:
+Evaluating causal Arctic-midlatitude teleconnections in CMIP6. Journal of Geophysical 
+Research: Atmospheres, 128, e2022JD037978,
+[doi: 10.1029/2022JD037978](https://doi.org/10.1029/2022JD037978), 2023.
+
 Gier, B. K., Buchwitz, M., Reuter, M., Cox, P. M., Friedlingstein, P., and Eyring, V.:
 Spatially resolved evaluation of Earth system models with satellite column-averaged CO2,
 Biogeosciences, 17, 61156144,
