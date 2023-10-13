@@ -30,7 +30,7 @@ Robust estimation of open ocean CO2 variables and nutrient concentrations from
 t, s, and o2 data using bayesian neural networks, Frontiers in Marine Science, 5,
 [doi: 10.3389/fmars.2018.00328](https://doi.org/10.3389/fmars.2018.00328), 2018.
 
-Bock, Lauer, A., Schlund, M., Barreiro, M., Bellouin, N., Jones, C., Meehl, G. A.,
+Bock, L., Lauer, A., Schlund, M., Barreiro, M., Bellouin, N., Jones, C., Meehl, G. A.,
 Predoi, V., Roberts, M. J., and Eyring, V.: Quantifying progress across different
 CMIP phases with the ESMValTool, J. Geophys. Res., 125, e2019JD032321,
 [doi: 10.1029/2019JD032321](https://doi.org/10.1029/2019JD032321), 2020.
