@@ -1,10 +1,9 @@
 ---
-layout: post
-title: ESMValTool on CMIP website
-date: 2023-10-24
+layout: page
+title: ESMValTool video
 ---
 
-ESMValTool is now listed as one of the [model benchmarking and evaluation tools on the CMIP website](https://wcrp-cmip.org/tools/model-benchmarking-and-evaluation-tools/). Watch the [ESMValTool video](https://youtu.be/sidM4EB6Sbo?list=PLfNPd2rlkdzOxdo5tAZHS3VUeMFn2QwAj) from the CMIP Model Benchmarking Task Team available on YouTube!
+ESMValTool is listed as one of the [model benchmarking and evaluation tools on the CMIP website](https://wcrp-cmip.org/tools/model-benchmarking-and-evaluation-tools/). The [ESMValTool video](https://youtu.be/sidM4EB6Sbo?list=PLfNPd2rlkdzOxdo5tAZHS3VUeMFn2QwAj) from the CMIP Model Benchmarking Task Team is available on YouTube.
 
 <link rel="stylesheet" type="text/css" href="../assets/css/video.css">
 
