@@ -22,6 +22,7 @@ navbar-links:
     - License: "esmvaltool_license"
     - References: "references"
     - Roadmap: "roadmap"
+    - Video: "video"
     - Tutorial: "tutorial"
   Team:
     - CMIP6 contributions: "cmip6"
