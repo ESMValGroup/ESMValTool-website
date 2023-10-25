@@ -263,6 +263,16 @@ disable or restrict the transfer of cookies at any time.
 Cookies that have already been placed on your computer can
 be deleted at any time.
 
+## II.5 Embedded content from other websites
+Pages on this site may include embedded content (e.g. videos, images, articles, etc.).
+Embedded content from other websites behaves in the exact same way as if the visitor
+has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party
+tracking, and monitor your interaction with that embedded content, including tracking
+your interaction with the embedded content if you have an account and are logged in
+to that website.
+
 ## III. Rights of the data subject
 
 Where personal data concerning you is processed, you are
