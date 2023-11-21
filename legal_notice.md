@@ -43,11 +43,11 @@ DE 121965658
 **Responsible in the sense of Section 18 2nd paragraph of Medienstaatsvertrag
 (German State Media Treaty)**
 
-Prof. Dr. Veronika Eyring \
+Prof. Dr. Markus Rapp \
 German Aerospace Center (DLR) \
 Institute of Atmospheric Physics \
-Oberpfaffenhofen \
-D-82234 Wessling \
+Münchener Straße 20 \
+82234 Weßling \
 Germany
 
 ### Liability
