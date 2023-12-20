@@ -41,6 +41,6 @@ Please refer to the Changelogs for an overview of the latest changes and additio
 
 -------------------
 
-Finally, a collection of output from 153 ESMValTool recipes run with version v2.10.0 is available on this portal: https://esmvaltool.dkrz.de/shared/esmvaltool/v2.10.0/ 
+Finally, a collection of output from 140 ESMValTool recipes run with version v2.10.0 is available on this portal: https://esmvaltool.dkrz.de/shared/esmvaltool/v2.10.0/ 
 
 Happy model evaluation with ESMValTool!
