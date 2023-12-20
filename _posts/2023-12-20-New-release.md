@@ -6,6 +6,8 @@ date: 2023-12-20
 
 ## ESMValTool v2.10.0 released!
 
+![v2.10.0_officially_released](/assets/img/ESMValTool_v2.10.0_officially_released.gif){:style="float: left;margin-bottom: 32px;"}
+
 New versions of the ESMValTool (v2.10.0) and ESMValCore (v2.10.0) have just been released:
 -	[https://github.com/ESMValGroup/ESMValTool/releases/tag/v2.10.0](https://github.com/ESMValGroup/ESMValTool/releases/tag/v2.10.0)
 -	[https://github.com/ESMValGroup/ESMValCore/releases/tag/v2.10.0](https://github.com/ESMValGroup/ESMValCore/releases/tag/v2.10.0) 
