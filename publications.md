@@ -163,6 +163,11 @@ Evaluating stratospheric ozone and water vapour changes in CMIP6 models from
 1850 to 2100, Atmos. Chem. Phys., 21, 5015-5061,
 [doi: 10.5194/acp-21-5015-2021](https://doi.org/10.5194/acp-21-5015-2021), 2021.
 
+Kuhlbrodt, T., R. Swaminathan, P. Ceppi, and T. Wilder: A glimpse into the
+future: The 2023 ocean temperature and sea-ice extremes in the context of longer-term
+climate change. Bull. Amer. Meteor. Soc.,
+[doi: 10.1175/BAMS-D-23-0209.1](https://doi.org/10.1175/BAMS-D-23-0209.1), 2024.
+
 Lauer, A., Eyring, V., Righi, M., Buchwitz, M., Defourny, P., Evaldsson, M.,
 Friedlingstein, P., Jeu, R. de, Leeuw, G. de, Loew, A., Merchant, C. J., Müller, B.,
 Popp, T., Reuter, M., Sandven, S., Senftleben, D., Stengel, M., Roozendael, M. V.,
