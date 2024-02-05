@@ -35,6 +35,9 @@ Predoi, V., Roberts, M. J., and Eyring, V.: Quantifying progress across differen
 CMIP phases with the ESMValTool, J. Geophys. Res., 125, e2019JD032321,
 [doi: 10.1029/2019JD032321](https://doi.org/10.1029/2019JD032321), 2020.
 
+Bock, L. and Lauer, A.: Cloud properties and their projected changes in CMIP models
+with low to high climate sensitivity, Atmos. Chem. Phys., 24, 1587-1605, [doi: 10.5194/acp-24-1587-2024](https://doi.org/10.5194/acp-24-1587-2024), 2024.
+
 Brierley, C. and Wainer, I.: Inter-annual variability in the tropical atlantic
 from the last glacial maximum into future climate projections simulated by
 CMIP5/PMIP3, Climate of the Past, 14(10), 1377-1390,
