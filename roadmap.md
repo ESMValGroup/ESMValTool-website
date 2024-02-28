@@ -26,7 +26,7 @@ timeline and (if applicable) the project funding these activities.
   <tr>
   <td>Q2 2020</td>
   <td>
-  <a href="https://redmine.dkrz.de/projects/cmip6-dicad-subproject/">CMIP6-DICAD</a>
+  <a href="https://c6de.dkrz.de/de-dicad.html/">CMIP6-DICAD</a>
   </td>
   <td>
   <ul>
