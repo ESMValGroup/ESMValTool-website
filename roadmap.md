@@ -26,7 +26,7 @@ timeline and (if applicable) the project funding these activities.
   <tr>
   <td>Q2 2020</td>
   <td>
-  <a href="https://www.dkrz.de/c6de/dicad/">CMIP6-DICAD</a>
+  <a href="https://redmine.dkrz.de/projects/cmip6-dicad-subproject/">CMIP6-DICAD</a>
   </td>
   <td>
   <ul>
@@ -37,7 +37,7 @@ timeline and (if applicable) the project funding these activities.
   <tr>
   <td>Q4 2020</td>
   <td>
-  <a href="https://www.crescendoproject.eu/">CRESCENDO</a>
+  <a href="https://ukesm.ac.uk/crescendo/">CRESCENDO</a>
   </td>
   <td>
   <ul>
@@ -53,7 +53,7 @@ timeline and (if applicable) the project funding these activities.
   <tr>
   <td>Q3 2020-Q3 2021</td>
   <td>
-  <a href="http://www.esa-cmug-cci.org/">ESA CCI CMUG Phase 3</a>
+  <a href="https://climate.esa.int/en/projects/cmug/">ESA CCI CMUG Phase 3</a>
   </td>
   <td>
   Implementation of the following ESA CCI+ datasets
