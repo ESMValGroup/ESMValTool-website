@@ -12,7 +12,8 @@ Agenda: [Workshop agenda](/assets/pdf/ESMValTool_workshop_agenda_June_2023.pdf)
 ### 2. Technical ESMValtool workshop 2022
 
 Date: 18-20 October 2022 \
-Venue: UK Met Office, Exeter, UK (hybrid meeting)
+Venue: UK Met Office, Exeter, UK (hybrid meeting) \
+Agenda: [Workshop agenda](/assets/pdf/ESMValTool_workshop_agenda_Oct_2022.pdf)
 
 ### 1. Technical ESMValtool workshop 2022
 
