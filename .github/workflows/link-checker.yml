@@ -12,4 +12,4 @@ jobs:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         config-file: 'link-checker-config.json'
-        folder-path: 'docs/markdown_files' 
+        file-path: './CHANGELOG.md, ./README.md, ./about.md, ./acknowledgements.md, ./cmip6.md, ./documentation.md, ./download.md, ./esmvaltool_license.md, ./gallery.md, ./legal_notice.md, ./meetings.md, ./presentations.md, ./privacy.md, ./publications.md, ./references.md, ./reg_publication.md, ./roadmap.md, ./team.md, ./tutorial.md, ./video.md' 
