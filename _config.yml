@@ -23,7 +23,7 @@ navbar-links:
     - References: "references"
     - Roadmap: "roadmap"
     - Video: "video"
-    - Tutorial: "tutorial"
+    - Tutorials: "tutorials"
   Team:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
