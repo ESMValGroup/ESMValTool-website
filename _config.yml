@@ -23,7 +23,7 @@ navbar-links:
     - References: "references"
     - Roadmap: "roadmap"
     - Video: "video"
-    - Tutorial: "tutorial"
+    - Tutorials: "tutorials"
   Team:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
@@ -31,6 +31,7 @@ navbar-links:
     - Presentations: "presentations"
     - Publications: "publications"
     - Register publication: "reg_publication"
+  Documentation: "https://docs.esmvaltool.org/en/latest/"
   Download: "download"
 
 # --- Logo --- #
@@ -52,12 +53,12 @@ title-img: assets/img/ESMValTool-logo-new-white-2b.png
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-#social-network-links:
+social-network-links:
 #  email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
-#  twitter: daattali
+ github: ESMValGroup/ESMValTool
+ twitter: ESMValTool
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -77,7 +78,7 @@ title-img: assets/img/ESMValTool-logo-new-white-2b.png
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+#  discord: invite/invite_code or users/userid
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -196,23 +197,23 @@ footer-hover-col: "#0085A1"
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
-# section commented if you aren't using reCaptcha for spam protection. 
-# Using Staticman requires advanced knowledge, please consult 
-# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
-# instructions. For any support with staticman please direct questions to staticman and 
+# section commented if you aren't using reCaptcha for spam protection.
+# Using Staticman requires advanced knowledge, please consult
+# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further
+# instructions. For any support with staticman please direct questions to staticman and
 # not to BeautifulJekyll.
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
 # To use giscus comments:
-# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,
 # (2) Install the giscus app in your repository (details at https://giscus.app),
-# (3) Fill in *all* the parameters below 
+# (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
 #giscus:
 #  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
