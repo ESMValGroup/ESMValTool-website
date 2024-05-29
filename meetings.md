@@ -3,6 +3,12 @@ layout: page
 title: Meetings
 ---
 
+### 1. ESMValTool community workshop 2024
+
+Date: 27-29 May 2024 \
+Venue: DLR, Oberpfaffenhofen, Germany (hybrid meeting) \
+Agenda: [Workshop agenda](/assets/pdf/Agenda_ESMValTool_WS_2024-05.pdf)
+
 ### 1. ESMValtool community workshop 2023
 
 Date: 27-29 June 2023 \
