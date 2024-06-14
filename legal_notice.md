@@ -53,8 +53,8 @@ Germany
 ### Liability for DLR´s own content
 
 As far as DLR´s "own content" (information, software or documentation) is being
-made available free of charge on this website [https://esmvaltool.org], any
-liability for defects as to quality or title of DLR´s own content- especially in
+made available free of charge on this website [https://esmvaltool.org](https://esmvaltool.org),
+any liability for defects as to quality or title of DLR´s own content- especially in
 relation to the correctness or absence of defects or the absence of claims or
 third party rights or in relation to completeness and/or fitness for purpose -
 is excluded except in cases of willful misconduct or gross negligence.
