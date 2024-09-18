@@ -19,13 +19,13 @@ If you would like to ask for an individual permission (license) to use a copyrig
 content contained in this public Internet presence and if DLR is indicated as the
 respective copyright holder, please contact:
 
-Deutsches Zentrum für Luft- und Raumfahrt e. V.  (DLR)
-Communication and Press
-Linder Hoehe
-51147 Cologne (Koeln)
-Germany
-Phone: +49 2203 601-2116
-Fax: +49 2203 601-3249
+Deutsches Zentrum für Luft- und Raumfahrt e. V.  (DLR) \
+Communication and Press \
+Linder Hoehe \
+51147 Cologne (Koeln) \
+Germany \
+Phone: +49 2203 601-2116 \
+Fax: +49 2203 601-3249 \
 E-Mail: bildredaktion [at] dlr.de
 
 #### 1.b. Rights of use for copyrighted content if DLR is not the copyright holder
