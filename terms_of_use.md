@@ -3,8 +3,6 @@ layout: page
 title: Terms of use
 ---
 
-# Terms of use #
- 
 ## DLR images and video – terms and conditions of use
 
 ### 1. Copyright and Terms of Use
