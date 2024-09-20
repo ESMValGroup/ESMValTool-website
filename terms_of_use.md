@@ -76,4 +76,9 @@ These DLR terms of use have no influence whatsoever on the following rights:
 
 ### 5. No usage rights for certain content
 
-Any license to use copyrighted material, including the Creative Commons license, extends only to the use of copyrighted material and does not include the permission to use protected trademarks - such as - the DLR logo and its components as well as other elements of the DLR corporate identity such as the "Blue Earth". The DLR logo and its components may not be used by persons who are not DLR employees or who have not obtained permission from DLR to use it beforehand. If you are interested in using a trademark you have to ask the owner of the trademark rights separately for permission of use.
+Any license to use copyrighted material, including the Creative Commons license, extends only to the
+use of copyrighted material and does not include the permission to use protected trademarks - such as -
+the DLR logo and its components as well as other elements of the DLR corporate identity such as the
+"Blue Earth". The DLR logo and its components may not be used by persons who are not DLR employees or
+who have not obtained permission from DLR to use it beforehand. If you are interested in using a
+trademark you have to ask the owner of the trademark rights separately for permission of use.
