@@ -7,10 +7,10 @@ title: About
 
 ![ESMValTool-logo](/assets/img/EVA-logo.png){:style="float: left;margin-right: 16px;margin-top: 16px;"}
 
-The Earth System Model Evaluation Tool (ESMValTool) is an open-source community-developed diagnostics
+Earth System Model Evaluation Tool (ESMValTool) is an open-source community-developed diagnostics
 and performance metrics tool for the evaluation and analysis of Earth System Models (ESMs). ESMValTool
 allows for a comparison of single or multiple models against predecessor versions and
-observations. The aim of the ESMValTool is to take model evaluation to the next level by
+observations. The aim of ESMValTool is to take model evaluation to the next level by
 facilitating analysis of many different ESM components, providing well-documented source code and
 scientific background of implemented diagnostics. Traceability and reproducibility of the results are
 ensured by providing detailed provenance records for all output. While originally designed to facilitate

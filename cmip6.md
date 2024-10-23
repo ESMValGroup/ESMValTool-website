@@ -39,7 +39,7 @@ as long as they are water-marked and should not be used in publications. We enco
 all CMIP6 modelling groups to quality control the results for their models. Please follow
 the CMIP6 Terms of Use.
 
-We emphasize that this newly established routine evaluation of the ESMs cannot and is
+We emphasize that this newly established evaluation workflow of the ESMs cannot and is
 not meant to replace the cutting-edge and in-depth explorative analysis and research
 that makes use of CMIP output which will remain essential to close gaps in our
 scientific understanding. Rather we suggest to make the well-established parts of ESM
