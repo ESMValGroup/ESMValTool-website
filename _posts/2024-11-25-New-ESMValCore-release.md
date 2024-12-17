@@ -11,6 +11,6 @@ A new version of ESMValCore (v2.11.1) has been released:
 
 ### Highlights:
 
-This is a bugfix release which enables lazy computations in more preprocessors and allows installing the latests version of various dependencies, including Iris ([v3.11.0](https://github.com/SciTools/iris/releases/tag/v3.11.0)).
+This is a bugfix release which enables lazy computations in more preprocessors and allows installing the latest version of various dependencies, including Iris ([v3.11.0](https://github.com/SciTools/iris/releases/tag/v3.11.0)).
 
 Happy model evaluation with ESMValTool!
