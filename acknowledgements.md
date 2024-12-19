@@ -9,8 +9,10 @@ The development of the ESMValTool was/is funded by
 
 | Project | Description | Funding period |
 | ------- | ----------- | -------------- |
-| ![APPLICATE](/assets/img/APPLICATE_logo_square.png) | the EU's Horizon 2020 Advanced Prediction in Polar regions and beyond: Modelling, observing system design and LInkages associated with a Changing Arctic climate ([APPLICATE](https://applicate-h2020.eu/)) project" | -
-| ![BMBF](/assets/img/BMBF_Logo_square.png) | the BMBF's [CMIP6-DICAD](https://c6de.dkrz.de/de-dicad.html) project funding CMIP6 activities in Germany" | 07/2016-06/2020 |
+| ![AI4PEX](/assets/img/AI4PEX_logo.png) | the EU's Horizon Europe, the UK government’s Horizon Europe funding guarantee and  the Swiss State's Secretariat for Education project "Artificial Intelligence and Machine Learning for Enhanced Representation of Processes and Extremes in Earth System Models ([AI4PEX](https://ai4pex.org/))" | 04/2024-03/2028 |
+| ![APPLICATE](/assets/img/APPLICATE_logo_square.png) | the EU's Horizon 2020 "Advanced Prediction in Polar regions and beyond: Modelling, observing system design and LInkages associated with a Changing Arctic climate ([APPLICATE](https://applicate-h2020.eu/))" project | -
+| ![BMBF](/assets/img/BMBF_Logo_square.png) | the BMBF's [CMIP6-DICAD](https://c6de.dkrz.de/de-dicad.html) project funding CMIP6 activities in Germany | 07/2016-06/2020 |
+| ![BMBF](/assets/img/BMBF_Logo_square.png) | the BMBF project "German Contribution to ClimAte Projections for CMIP7 ([CAP7](https://www.fona.de/de/massnahmen/foerdermassnahmen/CAP7.php))" | 09/2024-08/2027 |
 | ![C3S](/assets/img/climatechange_square.png) | Copernicus Climate Change Service ([C3S](https://climate.copernicus.eu/)) Lot 1 and Lot 2 Metrics and Access to Global Indices for Climate Projections (C3S-MAGIC) projects |
 | ![4C](/assets/img/4C_logo_square.png) | the European Commission's Horizon 2020 Framework Programme, under Grant Agreement number 821003, the "Climate-Carbon Interactions in the Current Century ([4C](https://4c-carbon.eu/))" | 06/2019-05/2023 |
 | ![CRESCENDO](/assets/img/CRESCENDO_logo_square.png) | the European Commission's Horizon 2020 Framework Programme, under Grant Agreement number 641816, the "Coordinated Research in Earth Systems and Climate: Experiments, kNowledge, Dissemination and Outreach ([CRESCENDO](https://ukesm.ac.uk/crescendo/))" | 11/2015-03/2021 |
