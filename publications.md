@@ -195,6 +195,10 @@ Lauer, A., Bock, L., Hassler, B., Schröder, M., Stengel, M.: Cloud climatologie
 climate models - a comparison of CMIP5 and CMIP6 models with satellite data, Journal of Climate,
 36(2), 281-311, [doi: 10.1175/JCLI-D-22-0181.1](https://doi.org/10.1175/JCLI-D-22-0181.1), 2023.
 
+Lauer, A., Bock, L., Hassler, B., Jöckel, P., Ruhe, L., and Schlund, M.: Monitoring and
+benchmarking Earth system model simulations with ESMValTool v2.12.0, Geosci. Model Dev.,
+18, 1169-1188, [doi: 10.5194/gmd-18-1169-2025](https://doi.org/10.5194/gmd-18-1169-2025), 2025.
+
 Lee, H., Goodman, A., McGibbney, L., Waliser, D. E., Kim, J., Loikith, P. C.,
 Gibson, P. B. and Massoud, E. C.: Regional climate model evaluation system powered
 by apache open climate workbench v1.3.0: An enabling tool for facilitating regional
