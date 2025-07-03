@@ -285,6 +285,12 @@ Evaluation of Native Earth System Model Output with ESMValTool v2.6.0,
 Geosci. Model Dev., 16, 315-333,
 [doi: 10.5194/gmd-16-315-2023](https://doi.org/10.5194/gmd-16-315-2023), 2023.
 
+Schlund, M., Andela, B., Benke, J., Comer, R., Hassler, B., Hogan, E.,
+Kalverla, P., Lauer, A., Little, B., Loosveldt Tomas, S., Nattino, F.,
+Peglar, P., Predoi, V., Smeets, S., Worsley, S., Yeo, M., and Zimmermann, K.:
+Advanced climate model evaluation with ESMValTool v2.11.0 using parallel,
+out-of-core, and distributed computing, Geosci. Model Dev., 18, 4009-4021, [doi: 10.5194/gmd-18-4009-2025](https://doi.org/10.5194/gmd-18-4009-2025), 2025.
+
 Senftleben, D., V. Eyring, A. Lauer, and M. Righi: Temperature and sea ice hindcast
 skill of the MiKlip decadal prediction system in the Arctic, Met. Z., 27(3), 195-208,
 [doi: 10.1127/metz/2018/0871](https://dx.doi.org/10.1127/metz/2018/0871), 2018.

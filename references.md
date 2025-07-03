@@ -22,6 +22,10 @@ title: References
 
 + <img align="right" width="180" src="/assets/img/Schlund_2023-gmd-16-315-2023-avatar.png">**Schlund, M.**, Hassler, B., Lauer, A., Andela, B., Jöckel, P., Kazeroni, R., Loosveldt Tomas, S., Medeiros, B., Predoi, V., Sénési, S., Servonnat, J., Stacke, T., Vegas-Regidor, J., Zimmermann, K., and Eyring, V.: **Evaluation of native Earth system model output with ESMValTool v2.6.0**, Geosci. Model Dev., 16, 315–333, [doi: 10.5194/gmd-16-315-2023](https://doi.org/10.5194/gmd-16-315-2023), 2023.
 
+#### Parallel, out-of-core, and distributed computing
+
++ <img align="right" width="180" src="/assets/img/gmd-18-4009-2025-avatar-web.png">**Schlund, M.**, Andela, B., Benke, J., Comer, R., Hassler, B., Hogan, E., Kalverla, P., Lauer, A., Little, B., Loosveldt Tomas, S., Nattino, F., Peglar, P., Predoi, V., Smeets, S., Worsley, S., Yeo, M., and Zimmermann, K.: **Advanced climate model evaluation with ESMValTool v2.11.0 using parallel, out-of-core, and distributed computing**, Geosci. Model Dev., 18, 4009-4021, [doi: 10.5194/gmd-18-4009-2025](https://doi.org/10.5194/gmd-18-4009-2025), 2025.
+
 # Further Related References
 
 #### ESMValTool v1
