@@ -107,6 +107,12 @@ Ferguson, C. R., Pan, M. and Oki, T.: The effect of global warming on future wat
 availability: CMIP5 synthesis, Water Resources Research, 54(10), 7791-7819,
 [doi: 10.1029/2018wr022792](https://doi.org/10.1029/2018wr022792), 2018.
 
+Fiedler, S., Pham, T. V., Schlund, M., Wahl, S., Sudarchikova, N., Bischof, S., and
+Hoesly, R. M.: First analysis of climate forcing and response to updated historical
+anthropogenic aerosol with the new CMIP7 model ICON XPP, Journal of Advances in
+Modeling Earth Systems, 17, e2025MS005067, [doi: 10.1029/2025MS005067](https://doi.org/10.1029/2025MS005067),
+2025.
+
 Folini, D.: Climate, weather, space weather: Model development in an operational context,
 Journal of Space Weather and Space Climate, 8, A32,
 [doi: 10.1051/swsc/2018021](https://doi.org/10.1051/swsc/2018021), 2018.
