@@ -30,7 +30,6 @@ navbar-links:
     - Meetings: "meetings"
     - Presentations: "presentations"
     - Publications: "publications"
-    - Register publication: "reg_publication"
   Documentation: "https://docs.esmvaltool.org/en/latest/"
   Download: "download"
 
