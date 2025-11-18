@@ -3,14 +3,20 @@ layout: page
 title: Publications
 ---
 
-> [!NOTE]
-> Have you published a scientific article or given a presentation showing results
-> produced with the ESMValTool? Then we would like to encourage you to register 
-> your publication. This helps us to keep track of the usage of the ESMValTool 
-> and allows our funding agencies to monitor its application. Thank you!
->
-> To register your publication, please send an e-mail to \
-> 📧 <a href="javascript:mail('lisa.bock','dlr.de')">Lisa Bock</a>
+<div class="warning" style='background-color:#d8ebf7ff; color: #0b2433ff; padding:0.7em; font-family:Lora, Times New Roman, serif; font-size:1.125rem;' >
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Note: Registering your own publications</b></p>
+<p style='margin-left:1em;'>
+Have you published a scientific article or given a presentation showing results
+produced with the ESMValTool? Then we would like to encourage you to register 
+your publication. This helps us to keep track of the usage of the ESMValTool 
+and allows our funding agencies to monitor its application. Thank you!<br><br>
+
+To register your publication, please send an e-mail to 📧 <a href="javascript:mail('lisa.bock','dlr.de')">Lisa Bock</a>
+</p>
+</span>
+</div>
 
 ## Publications with results from the ESMValTool (in alphabetical order)
 
@@ -363,7 +369,7 @@ Pope, V., Roberts, W. H. G., Stone, E. J., Tourte, G. J. L. and Williams, J. H. 
 
 Virolainen, Y. A., Timofeyev, Y. M., Smyshlyaev, S. P., Motsakov, M. A. and Kirner, O.:
 **Study of ozone layer variability near st. Petersburg on the basis of SBUV satellite
-measurements and numerical simulation (20002014)**, Izvestiya, Atmospheric and Oceanic
+measurements and numerical simulation (2000 - 2014)**, Izvestiya, Atmospheric and Oceanic
 Physics, 53(9), 911-917,
 [doi: 10.1134/s0001433817090328](https://doi.org/10.1134/s0001433817090328), 2017.
 
