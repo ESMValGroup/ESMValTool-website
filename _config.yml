@@ -20,7 +20,6 @@ navbar-links:
     - Gallery: "gallery"
     - References: "references"
     - Roadmap: "roadmap"
-    - Video: "video"
     - License: "esmvaltool_license"
   Team:
     - CMIP6 contributions: "cmip6"
@@ -273,6 +272,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
 
 plugins:
   - jekyll-paginate
