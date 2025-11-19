@@ -29,7 +29,7 @@ navbar-links:
     - Meetings: "meetings"
     - Presentations: "presentations"
     - Publications: "publications"
-  Documentation<i class="mdi mdi-home"></i>: "https://docs.esmvaltool.org/en/latest/"
+  Documentation: "https://docs.esmvaltool.org/en/latest/"
   Download: "download"
 
 # --- Logo --- #
