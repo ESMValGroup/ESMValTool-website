@@ -21,7 +21,6 @@ navbar-links:
     - Gallery: "gallery"
     - References: "references"
     - Roadmap: "roadmap"
-    - Video: "video"
     - License: "esmvaltool_license"
   Community:
     - CMIP6 contributions: "cmip6"
