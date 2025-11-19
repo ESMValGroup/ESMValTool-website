@@ -73,6 +73,7 @@ ESMValTool is developed by a community of scientists and research software engin
 * National Centre for Atmospheric Science (NCAS), British Atmospheric Data Centre (BADC), STFC Rutherford Appleton Laboratory, United Kingdom
 * National Computational Infrastructure (NCI), Australia
 * National Institute of Water and Atmospheric Research (NIWA), New Zealand
+* Natural Environment Research Council (NERC), United Kingdom
 * Netherlands eScience Center (NLeSC), The Netherlands
 * Norwegian Meteorological Institute (Met Norway), Norway
 * Ouranos, Canada
