@@ -19,11 +19,10 @@ navbar-links:
     - About: "about"
     - Documentation: "documentation"
     - Gallery: "gallery"
-    - License: "esmvaltool_license"
     - References: "references"
     - Roadmap: "roadmap"
     - Video: "video"
-#    - Tutorials: "tutorials"
+    - License: "esmvaltool_license"
   Team:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
