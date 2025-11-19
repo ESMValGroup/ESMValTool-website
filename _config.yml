@@ -22,14 +22,13 @@ navbar-links:
     - References: "references"
     - Roadmap: "roadmap"
     - Video: "video"
-    - Tutorials: "tutorials"
     - License: "esmvaltool_license"
-  Team:
+  Community:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
     - Meetings: "meetings"
-    - Presentations: "presentations"
     - Publications: "publications"
+    - Resources: "resources"
   Documentation: "https://docs.esmvaltool.org/en/latest/"
   Download: "download"
 
@@ -272,6 +271,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
 
 plugins:
   - jekyll-paginate
