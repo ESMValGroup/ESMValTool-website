@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Meetings
+title: Events
 ---
+
+## Monthly Meetings
+
+
+## Past Workshops
 
 ### 1. ESMValTool community workshop 2024
 
