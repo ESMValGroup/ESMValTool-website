@@ -17,11 +17,9 @@ navbar-links:
   Home: "index"
   ESMValTool:
     - About: "about"
-    - Documentation: "documentation"
     - Gallery: "gallery"
     - References: "references"
     - Roadmap: "roadmap"
-    - Tutorials: "tutorials"
     - License: "esmvaltool_license"
   Team:
     - CMIP6 contributions: "cmip6"
@@ -29,8 +27,11 @@ navbar-links:
     - Meetings: "meetings"
     - Presentations: "presentations"
     - Publications: "publications"
-  Documentation: "https://docs.esmvaltool.org/en/latest/"
   Download: "download"
+
+navbar-extlinks:
+  Documentation: "https://docs.esmvaltool.org/"
+  Tutorial: "https://tutorial.esmvaltool.org/"
 
 # --- Logo --- #
 
