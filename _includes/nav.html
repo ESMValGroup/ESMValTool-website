@@ -30,6 +30,11 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
+      {%- for link in site.navbar-extlinks -%}
+          <li class="nav-item">
+            <a class="nav-link" href="{{link[1]}}"> {{link[0]}} <i class="fas fa-external-link-alt"></i></a>
+          </li>
+      {%- endfor -%}
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">

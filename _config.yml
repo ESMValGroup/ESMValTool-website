@@ -17,7 +17,6 @@ navbar-links:
   Home: "index"
   ESMValTool:
     - About: "about"
-    - Documentation: "documentation"
     - Gallery: "gallery"
     - References: "references"
     - Roadmap: "roadmap"
@@ -28,8 +27,11 @@ navbar-links:
     - Meetings: "meetings"
     - Publications: "publications"
     - Resources: "resources"
-  Documentation: "https://docs.esmvaltool.org/en/latest/"
   Download: "download"
+
+navbar-extlinks:
+  Documentation: "https://docs.esmvaltool.org/"
+  Tutorial: "https://tutorial.esmvaltool.org/"
 
 # --- Logo --- #
 
