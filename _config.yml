@@ -23,15 +23,18 @@ navbar-links:
     - References: "references"
     - Roadmap: "roadmap"
     - Video: "video"
-    - Tutorials: "tutorials"
+#    - Tutorials: "tutorials"
   Team:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
     - Meetings: "meetings"
     - Presentations: "presentations"
     - Publications: "publications"
-  Documentation: "https://docs.esmvaltool.org/en/latest/"
   Download: "download"
+
+navbar-extlinks:
+  Documentation: "https://docs.esmvaltool.org/"
+  Tutorial: "https://tutorial.esmvaltool.org/"
 
 # --- Logo --- #
 
@@ -276,6 +279,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+#  - jekyll-target-blank
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
