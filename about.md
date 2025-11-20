@@ -21,7 +21,7 @@ and reanalysis datasets. The development of ESMValTool is supported by several
 [national and international projects](https://www.esmvaltool.org/acknowledgements).
 ESMValTool has been used in several chapters of the
 [Working Group I contribution to the Intergovernmental Panel on Climate Change's Sixth Assessment Report (IPCC AR6)](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/).
-ESMValTool has been selected by the {CMIP7 Model Benchmarking Task Team](https://wcrp-cmip.org/cmip7-task-teams/model-benchmarking/) as one of the featured model benchmarking and evaluation tools. Recently, the ESMValTool team received the first annual [Helmholtz incubator software award for sustainability](https://www.hifis.net/announcement/2024/07/18/sw-award-final/).
+ESMValTool has been selected by the [CMIP7 Model Benchmarking Task Team](https://wcrp-cmip.org/cmip7-task-teams/model-benchmarking/) as one of the featured model benchmarking and evaluation tools. Recently, the ESMValTool team received the first annual [Helmholtz incubator software award for sustainability](https://www.hifis.net/announcement/2024/07/18/sw-award-final/).
 
 ## Main Features
 
