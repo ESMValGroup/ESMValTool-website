@@ -13,11 +13,9 @@ There are monthly Meetings for community members which are announced in the [Com
 {% assign meetingDate = meeting.date | date: '%Y%m%d' %}
 
 {% if meetingDate >= currentdate %}
-The next monthly meeting is scheduled for **{{ meeting.date }}** on <a href="{{ meeting.meeting-link }}">{{ meeting.place }}</a>.
-
+The next monthly meeting is scheduled for **{{ meeting.date }}** on [{{ meeting.place }}]({{ meeting.meeting-link }}).<br>
 Further Information can be found [here]({{ meeting.discussion-link }}).
 
-{{ meeting.meeting-link }}
 {% else %}
 The date for the next monthly meeting has not been determined, if you want to be notified when it is fixed, consider joining the mailing list (TODO add link how to join) or check the [Discussions on the GitHub Community Repository](https://github.com/ESMValGroup/Community/discussions).
 {% endif %}
