@@ -1,0 +1,51 @@
+name: Check Links
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 23 * * 0"  # Every Sunday at 11 PM UTC
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write # Required for peter-evans/create-issue-from-file
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true  # installs and caches dependencies
+      
+      - name: Build Jekyll Site
+        run: |
+          bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production  # Built like production (rather than locally)
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+          # args to check source files without building
+          # './**/*.md' './**/*.html' './**/*.rst'
+          args: >
+            ./_site/**/*.html
+            --verbose --max-concurrency 1 --no-progress 
+            --accept '100..=103,200..=299, 429'
+            --exclude https://doi.org/
+        env:
+          # avoid 429 errors (too many requests) on github.com api requests
+          GITHUB_TOKEN: ${{secrets.TOKEN_GITHUB}}
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: documentation, github_actions
