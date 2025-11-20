@@ -29,6 +29,7 @@ jobs:
         env:
           JEKYLL_ENV: production  # Built like production (rather than locally)
 
+
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
@@ -45,10 +46,13 @@ jobs:
           # avoid 429 errors (too many requests) on github.com api requests
           GITHUB_TOKEN: ${{secrets.TOKEN_GITHUB}}
 
+      - name: Set current date
+        run: echo "REPORT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
-          title: "🔗 Link Check Report - $(date + '%Y-%m-%d')"
+          title: "🔗 Link Check Report - ${{ env.REPORT_DATE }}"
           content-filepath: ./lychee/out.md
           labels: bug
