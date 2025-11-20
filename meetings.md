@@ -9,11 +9,11 @@ There are monthly Meetings for community members which are announced in the [Com
 
 ### Upcoming Monthly Meeting
 
-{% assign meeting = site.data.events.monthly_meetings[0] %}
+{% assign meeting = site.data.events.monthly_meetings.dates[0] %}
 {% assign meetingDate = meeting.date | date: '%Y%m%d' %}
 
 {% if meetingDate >= currentdate %}
-The next monthly meeting is scheduled for **{{ meeting.date }}** on [{{ meeting.place }}]({{ meeting.meeting-link }}).
+The next monthly meeting is scheduled for **{{ meeting.date }}** on <a href="{{ meeting.meeting-link }}">{{ meeting.place }}</a>.
 
 Further Information can be found [here]({{ meeting.discussion-link }}).
 
