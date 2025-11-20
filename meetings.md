@@ -2,11 +2,45 @@
 layout: page
 title: Events
 ---
+{% assign currentdate = site.time | date: '%Y%m%d' %}
 
 ## Monthly Meetings
+There are monthly Meetings for community members which are announced in the [Community Repository](https://github.com/ESMValGroup/Community/discussions), with doodles being sent around to determine the best timeslot. Each Meeting takes around one hour. Anyone is invited to join these meetings and can ask questions. If a longer topic is to be brought up for discussion, we suggest to leave a message in the corresponding Discussion Thread. Meeting Notes for previous Meetings can also be found in that repository.
+
+### Upcoming Monthly Meeting
+
+{% assign meeting = site.data.events.monthly_meetings[0] %}
+{% assign meetingDate = meeting.date | date: '%Y%m%d' %}
+
+{% if meetingDate >= currentdate %}
+The next monthly meeting is scheduled for **{{ meeting.date }}** on [{{ meeting.place }}]({{ meeting.meeting-link }}).
+
+Further Information can be found [here]({{ meeting.discussion-link }}).
+
+{{ meeting.meeting-link }}
+{% else %}
+The date for the next monthly meeting has not been determined, if you want to be notified when it is fixed, consider joining the mailing list (TODO add link how to join) or check the [Discussions on the GitHub Community Repository](https://github.com/ESMValGroup/Community/discussions).
+{% endif %}
 
 
-## Past Workshops
+
+
+{% for meeting in site.data.events.monthly_meetings %}
+    {% assign meetingDate = meeting.date | date: '%Y %b' %}
+    {{ meetingDate }}
+
+    {% if meetingDate <= currentdate %}
+        Test: {{ meetingDate }}
+    {% else %}
+        Next Meeting Time not set
+    {% endif %}
+
+
+{% endfor %}
+
+## Workshops
+
+The ESMValTool Community generally organizes two community workshops a year to discuss 
 
 ### 1. ESMValTool community workshop 2024
 

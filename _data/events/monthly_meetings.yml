@@ -1,0 +1,14 @@
+
+- date: 05.12.2025 16:00
+  discussion-link: "https://github.com/ESMValGroup/Community/discussions/250"
+  place: Zoom
+  meeting-link: *zoom
+- date: 8.10.2025
+  discussion-link: "https://github.com/ESMValGroup/Community/discussions/245"
+  place: Zoom
+  meeting-link: &zoom
+    "https://uni-bremen.zoom-x.de/j/63972641088?pwd=fmlnNUsxwb5DrZRYf07MFz8GbT6pQC.1"
+- date: 18.12.2023 18:00 CET
+  discussion-link: "blah"
+  place: Zoom
+  meeting-link: *zoom
