@@ -38,8 +38,8 @@ jobs:
           # './**/*.md' './**/*.html' './**/*.rst'
           args: >
             ./_site/**/*.html
-            --verbose --max-concurrency 1 --no-progress 
-            --accept '100..=103,200..=299, 429'
+            --max-concurrency 1 --no-progress 
+            --accept '100..=103,200..=399, 429'
             --exclude https://doi.org/
         env:
           # avoid 429 errors (too many requests) on github.com api requests
@@ -49,6 +49,6 @@ jobs:
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
-          title: Link Checker Report
+          title: "🔗 Link Check Report - $(date + '%Y-%m-%d')"
           content-filepath: ./lychee/out.md
-          labels: documentation, github_actions
+          labels: bug
