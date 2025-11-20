@@ -40,7 +40,10 @@ The date for the next monthly meeting has not been determined, if you want to be
 
 ## Workshops
 
-The ESMValTool Community generally organizes two community workshops a year to discuss 
+There are two community workshops a year, a hybrid meeting in spring and a virtual one in autumn.
+
+## Upcoming Workshops
+
 
 ### 1. ESMValTool community workshop 2024
 
