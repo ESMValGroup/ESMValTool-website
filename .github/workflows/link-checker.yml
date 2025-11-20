@@ -48,6 +48,12 @@ jobs:
 
       - name: Set current date
         run: echo "REPORT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      
+      # sloppy workaround. Hiding redirects in lychees md format does not work
+      - name: Clean up Report
+        run: |
+          sed -i '/^## Redirects per input/,$d' ./lychee/out.md
+          sed -i '1i > This report was generated automatically. If links that are reported below are actually working, please ignore the corresponding urls in the `.lycheeignore` to avoid reoccurring error reports in the future.\n\n' ./lychee/out.md
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
