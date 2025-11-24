@@ -1,13 +1,9 @@
 name: Check Links
 
 on:
-  push:
-    branches:
-      - link_checker  # Temporary trigger to test the workflow
-  repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: "00 23 * * 0"  # Every Sunday at 11 PM UTC
+    - cron: "00 23 * * 0"  # Every Sunday 11pm (UTC)
 
 jobs:
   linkChecker:
