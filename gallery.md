@@ -100,7 +100,7 @@ title: Gallery
 <tr>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_perfmetrics.html">
       recipe_perfmetrics_CMIP5.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_spei.html">
+  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/droughts/recipe_spei.html">
       recipe_spei.yml</a></td>
   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_runoff_et.html">
       recipe_runoff_et.yml</a></td>
