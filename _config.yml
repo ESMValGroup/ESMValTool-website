@@ -19,7 +19,7 @@ navbar-links:
     - About: "about"
     - Gallery: "gallery"
     - References: "references"
-    - Roadmap: "roadmap"
+    - Strategy: "strategy"
     - License: "esmvaltool_license"
   Team:
     - CMIP6 contributions: "cmip6"
