@@ -5,171 +5,81 @@ title: Gallery
 
 ## ESMValTool examples
 
+Selected examples from [IPCC AR6 Chapter 3](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/) and some [ESMValTool publications](/publications). A more complete overview can be found in [gallery of the ESMValTool documentation](https://docs.esmvaltool.org/en/latest/gallery.html).
+
 <table>
 
 <tr>
-  <td><a href="/assets/img/fig-9-3.png"><img src="/assets/img/fig-9-3.png"
-      title="CMIP5 multi-model mean 2m temperature, multi-model mean of absolute seasonality, multi-model mean bias in seasonality, multi-model mean bias in absolute seasonality; resembling Flato et al. (2013), Fig. 9.3."></a></td>
-  <td><a href="/assets/img/fig4_ipccar5_ch9.png"><img src="/assets/img/fig4_ipccar5_ch9.png"
-      title="Relative space-time root-mean-square deviation (RMSD) calculated from the climatological seasonal cycle of the CMIP5 simulations."></a></td>
-  <td><a href="/assets/img/ltmi1_1.png"><img src="/assets/img/ltmi1_1.png"
-      title="Lower tropospheric mixing index (LTMI; Sherwood et al., 2014) vs. equilibrium climate sensitivity from CMIP5 models."></a></td>
+  <td><a href="/assets/img/IPCC_AR6_WGI_Figure_3_3.png"><img src="/assets/img/IPCC_AR6_WGI_Figure_3_3.png"
+      title="Annual mean near-surface (2 m) air temperature (°C) for the period 1995–2014."></a></td>
+  <td><a href="/assets/img/IPCC_AR6_WGI_Figure_3_4.png"><img src="/assets/img/IPCC_AR6_WGI_Figure_3_4.png"
+      title="Observed and simulated time series of the anomalies in annual and global mean surface air temperature (GSAT)."></a></td>
+  <td><a href="/assets/img/IPCC_AR6_WGI_Figure_3_13.png"><img src="/assets/img/IPCC_AR6_WGI_Figure_3_13.png"
+      title="Annual-mean precipitation rate (mm day–1) for the period 1995–2014."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
-      recipe_flato13ipcc.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_perfmetrics.html">
-	  recipe_perfmetrics_CMIP5.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_emergent_constraints.html">
-	  recipe_ecs_scatter.yml</a></td>
+  <td><a href="https://www.ipcc.ch/report/ar6/wg1/figures/chapter-3/figure-3-3">
+      IPCC AR6 Fig. 3.3</a></td>
+  <td><a href="https://www.ipcc.ch/report/ar6/wg1/figures/chapter-3/figure-3-4">
+	  IPCC AR6 Fig. 3.4</a></td>
+  <td><a href="https://www.ipcc.ch/report/ar6/wg1/figures/chapter-3/figure-3-13">
+	  IPCC AR6 Fig. 3.13</a></td>
 </tr>
 <tr>
-  <td><a href="/assets/img/fig-9-8.png"><img src="/assets/img/fig-9-8.png"
-      title="Global average 2m temperature anomalies; resembling Flato et al. (2013), Fig. 9.8."></a></td>
-  <td><a href="/assets/img/fig-9-4.png"><img src="/assets/img/fig-9-4.png"
-      title="CMIP5 multi-model mean precipitation, multi-model mean bias, multi-model mean of absolute error, multi-model mean of relative error; resembling Flato et al. (2013), Fig. 9.4."></a></td>
-  <td><a href="/assets/img/diurnal_fig1.png"><img src="/assets/img/diurnal_fig1.png"
-      title="Mean number of days exceeding the Diurnal Temperature Range (DTR) simulated during the historical period (1961-1990) by 5 degrees during the period 2030-2080. The result is derived from one RCP 8.5 scenario simulated by MPI-ESM-MR."></a></td>
+  <td><a href="/assets/img/IPCC_AR6_WGI_Figure_3_43.png"><img src="/assets/img/IPCC_AR6_WGI_Figure_3_43.png"
+      title="Centred pattern correlations between models and observations for the annual mean climatology over the period 1980–1999."></a></td>
+  <td><a href="/assets/img/esd-12-253-2021-f01-web.png"><img src="/assets/img/esd-12-253-2021-f01-web.png"
+      title="Global average time series (11-year running averages) of changes from current baseline (1995–2014, left axis) and pre-industrial baseline (1850–1900, right axis) for SSP1-1.9, SSP1-2.6, SSP2-4.5, SSP3-7.0 and SSP5-8.5."></a></td>
+  <td><a href="/assets/img/acp-24-1587-2024-f01-web.png"><img src="/assets/img/acp-24-1587-2024-f01-web.png"
+      title="Scatterplot of the global mean (a) net, (b) shortwave, and (c) longwave cloud feedback (x-axis) and ECS (y-axis) of the CMIP models."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
-	  recipe_flato13ipcc.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_ipccwg1ar5ch9.html">
-	  recipe_flato13ipcc.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_diurnal_temperature_index.html">
-	  recipe_diurnal_index.yml</a></td>
+  <td><a href="https://www.ipcc.ch/report/ar6/wg1/figures/chapter-3/figure-3-43">
+	  IPCC AR6 Fig. 3.43</a></td>
+  <td><a href="https://esd.copernicus.org/articles/12/253/2021/">
+	  Tebaldi et al. (2021), Fig. 1</a></td>
+  <td><a href="https://acp.copernicus.org/articles/24/1587/2024/">
+	  Bock and Lauer (2024), Fig. 1</a></td>
 </tr>
 <tr>
-  <td><a href="/assets/img/crem_error_metric.png"><img src="/assets/img/crem_error_metric.png"
-      title="Cloud Regime Error Metrics (CREMpd) from William and Webb (2009) applied to those CMIP5 AMIP simulations with the required data in the archive. A perfect score with respect to ISCCP is zero; the dashed red line is an indication of observational uncertainty."></a></td>
-  <td><a href="/assets/img/collins_fig2.png"><img src="/assets/img/collins_fig2.png"
-      title="Time series of global annual mean surface air temperature anomalie (relative to 1986–2005) from CMIP5 concentration-driven experiments."></a></td>
-  <td><a href="/assets/img/autoassess_fig1.png"><img src="/assets/img/autoassess_fig1.png"
-      title="Using Quasi-Biennial Oscillation (QBO) as measure for tropical variability in the stratosphere. Mean zonal wind at 30hPa defines the period and amplitude of the QBO. QBO for UKESM1-0-LL."></a></td>
+  <td><a href="/assets/img/acp-24-1587-2024-f06-web.png"><img src="/assets/img/acp-24-1587-2024-f06-web.png"
+      title="(Upper panels) zonally averaged group means of (a) total cloud fraction, (b) liquid water path, (c) ice water path, and (d) net, (e) shortwave, and (f) longwave cloud radiative effect from historical simulations (solid lines) and RCP8.5/SSP5-8.5 scenarios (dashed lines). (Lower panels) corresponding relative differences of all zonally averaged group means between the RCP8.5/SSP5-8.5 scenarios and the corresponding historical simulations."></a></td>
+  <td><a href="/assets/img/full-JCLI-D-22-0181.1-f2.jpg"><img src="/assets/img/full-JCLI-D-22-0181.1-f2.jpg"
+      title="Taylor diagrams showing the 20-yr annual average performance of the CMIP5 (light blue) and CMIP6 (light red) models for total cloud cover (clt), liquid water path (lwp), ice water path (iwp), TOA shortwave (swcre) and longwave (lwcre) cloud radiative effects, and water vapor path (wvp)."></a></td>
+  <td><a href="/assets/img/gmd-18-1169-2025-f07.png"><img src="/assets/img/gmd-18-1169-2025-f07.png"
+      title="The global area-weighted RMSE, (c, d) weighted Pearson's correlation coefficient, and (e, f) weighted earth mover's distance of the geographical pattern of 5-year means of different variables from a simulation of EMAC (red cross) in comparison to the CMIP6 ensemble (box plot)."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_crem.html">
-      recipe_crem.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_collins13ipcc.html">
-      recipe_collins13ipcc.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_autoassess_stratosphere.html">
-	  recipe_autoassess_stratosphere.yml</a></td>
+  <td><a href="https://acp.copernicus.org/articles/24/1587/2024/">
+	  Bock and Lauer (2024), Fig. 6</a></td>
+  <td><a href="https://journals.ametsoc.org/view/journals/clim/36/2/JCLI-D-22-0181.1.xml">
+      Lauer et al. (2023), Fig. 2</a></td>
+  <td><a href="https://gmd.copernicus.org/articles/18/1169/2025/">
+	  Lauer et al. (2025), Fig. 7</a></td>
 </tr>  
 <tr>
-  <td><a href="/assets/img/figure_namelist_clouds_liq_h2o_taylor.png"><img src="/assets/img/figure_namelist_clouds_liq_h2o_taylor.png"
-      title="Taylor diagram showing the 20-yr annual average performance of CMIP5 models for total cloud fraction as compared to MODIS satellite observations."></a></td>
-  <td><a href="/assets/img/zmnam_fig1.png"><img src="/assets/img/zmnam_fig1.png"
-      title="Regression map of the zonal-mean NAM index onto geopotential height, for a selected pressure level (250 hPa) for the MPI-ESM-MR model (CMIP5 AMIP experiment, period 1979-2008). Negative values are shaded in grey."></a></td>
-  <td><a href="/assets/img/russel18_1.png"><img src="/assets/img/russel18_1.png"
-      title="Annual mean CO2 flux (sea to air, gC/(yr * m2), positive (red) is out of the ocean) as a polar contour map."></a></td>
+  <td><a href="/assets/img/full-JCLI-D-22-0181.1-f8.jpg"><img src="/assets/img/full-JCLI-D-22-0181.1-f8.jpg"
+      title="Two-dimensional distribution of average (top) total cloud cover (clt) and (middle) total cloud water path (tcwp) binned by SST (x axis) and vertical velocity at 500 hPa (ω500; y axis) averaged over 20 years and all grid cells over the ocean. (bottom) The relative frequency of occurrence of the SST–ω500 combinations."></a></td>
+  <td><a href="/assets/img/IPCC_AR6_WGI_Figure_3_19.png"><img src="/assets/img/IPCC_AR6_WGI_Figure_3_19.png"
+      title="Long-term mean (thin black contours) and linear trend (colour) of zonal mean December–January–February zonal winds from 1985 to 2014 in the Southern Hemisphere."></a></td>
+  <td><a href="/assets/img/gmd-18-1169-2025-f02-web.png"><img src="/assets/img/gmd-18-1169-2025-f02-web.png"
+      title="Time series of global average monthly mean temperature anomalies of the near-surface temperature from a simulation of EMAC (red) and the reference dataset HadCRUT5 (black). The thin gray lines show 43 individual CMIP6 models used for comparison, while the dashed gray lines show the 10th and 90th percentiles of these CMIP6 models. Panel (b) is the same as panel (a) but for the area-weighted RMSE of the near-surface air temperature."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_clouds.html">
-      recipe_lauer13jclim.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_zmnam.html">
-      recipe_zmnam.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_russell18jgr.html">
-      recipe_russell18jgr.yml</a></td>
-</tr>
+  <td><a href="https://journals.ametsoc.org/view/journals/clim/36/2/JCLI-D-22-0181.1.xml">
+      Lauer et al. (2023), Fig. 8</a></td>
+  <td><a href="https://www.ipcc.ch/report/ar6/wg1/figures/chapter-3/figure-3-19">
+      IPCC AR6 Fig. 3.19</a></td>
+  <td><a href="https://gmd.copernicus.org/articles/18/1169/2025/">
+	  Lauer et al. (2025), Fig. 2</a></td></tr>
 
 <tr>
-  <td><a href="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"><img src="/assets/img/sos_bias_comparison_MPI-ESM1-2-HR_ESACCI-SSS.png"
-      title="Radar plot showing the mean state biases (simulation minus observations) for the regional averages of sea surface salinity in the selected ocean basins and seas."></a></td>
-  <td><a href="/assets/img/scatterplot_merged_training_data_SHL.png"><img src="/assets/img/scatterplot_merged_training_data_SHL.png"
-      title="Emergent relationship (solid blue and orange lines) of the Sherwood et al. (2014) emergent constraint, which is based on the lower tropospheric mixing index (LTMI)."></a></td>
-  <td><a href="/assets/img/catchments.png"><img src="/assets/img/catchments.png"
-      title="Calculate biases of long-term climatological annual means of total runoff, precipitation and evapotranspiration for 12 large-scale catchments on different continents and climates."></a></td>
+  <td><a href="/assets/img/IPCC_AR6_WGI_Figure_3_42.png"><img src="/assets/img/IPCC_AR6_WGI_Figure_3_42.png"
+      title="Relative space–time root-mean-square deviation (RMSD) calculated from the climatological seasonal cycle of the CMIP simulations (1980–1999) compared to observational datasets."></a></td>
 </tr>
 <tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_sea_surface_salinity.html">
-      recipe_sea_surface_salinity.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_schlund20esd.html">
-      recipe_schlund20esd.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_runoff_et.html">
-      recipe_runoff_et.yml</a></td>
+  <td><a href="https://www.ipcc.ch/report/ar6/wg1/figures/chapter-3/figure-3-42">
+      IPCC AR6 Fig. 3.42</a></td>
 </tr>
-
-<tr>
-  <td><a href="/assets/img/perfmetrics_fig_1.png"><img src="/assets/img/perfmetrics_fig_1.png"
-      title="Annual cycle of globally averaged temperature at 850 hPa (time period 1980-2005) for different CMIP5 models (historical simulation) (thin colored lines) in comparison to ERA-Interim (thick yellow line) and NCEP (thick black dashed line) reanalysis data."></a></td>
-  <td><a href="/assets/img/histogram_spi.png"><img src="/assets/img/histogram_spi.png"
-      title="(top) Probability distribution of the standardized precipitation index of a sub-set of the CMIP5 models, and (bottom) bias relative to the CRU reference data set."></a></td>
-  <td><a href="/assets/img/MPI-ESM-LR_historical_r1i1p1_rocoef-vs-relprbias.png"><img src="/assets/img/MPI-ESM-LR_historical_r1i1p1_rocoef-vs-relprbias.png"
-      title="Biases in runoff coefficient (runoff/precipitation) and precipitation for major catchments of the globe. The MPI-ESM-LR historical simulation (1970-2000) is used as an example."></a></td>
-</tr>
-<tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_perfmetrics.html">
-      recipe_perfmetrics_CMIP5.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_spei.html">
-      recipe_spei.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_runoff_et.html">
-      recipe_runoff_et.yml</a></td>
-</tr>
-<tr>
-  <td><a href="/assets/img/hyint_trends.png"><img src="/assets/img/hyint_trends.png"
-      title="Multi-model trend coefficients over selected indices (figure type 14) for rcp85 2006-2099 future projection normalized to the 1976-2005 historical period."></a></td>
-  <td><a href="/assets/img/pdf_HadCRUT4.png"><img src="/assets/img/pdf_HadCRUT4.png"
-      title="The PDF for ECS. The orange histograms (both panels) show the prior distributions that arise from equal weighting of the CMIP5 models in 0.5 K bins."></a></td>
-  <td><a href="/assets/img/cdd_timeseries.png"><img src="/assets/img/cdd_timeseries.png"
-      title="Timeseries of Consecutive Dry Days index for CMIP5 models."></a></td>
-</tr>
-<tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_hyint.html">
-      recipe_hyint.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_cox18nature.html">
-      recipe_cox18_nature.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_extreme_events.html">
-      recipe_extreme_events.yml</a></td>
-</tr>
-<tr>
-  <td><a href="/assets/img/reichlerkim08bams_smpi.png"><img src="/assets/img/reichlerkim08bams_smpi.png"
-      title="Performance index I2 for individual models (circles). Circle sizes indicate the length of the 95% confidence intervals. The black circle indicates the I2 of the multi-model mean (similar to Reichler and Kim (2008), Figure 1)."></a></td>
-  <td><a href="/assets/img/bias_CMIP5_MPI-ESM-LR_rcp85_r1i1p1.png"><img src="/assets/img/bias_CMIP5_MPI-ESM-LR_rcp85_r1i1p1.png"
-      title="Biases in five major land cover fractions for different regions and one experiment."></a></td>
-  <td><a href="/assets/img/miles_block.png"><img src="/assets/img/miles_block.png"
-      title="Blocking events frequency for EC-Earth model 1980-1989, compared to ERA-Interim."></a></td>
-</tr>
-<tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_smpi.html">
-      recipe_smpi.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_landcover.html">
-      recipe_landcover.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_miles.html">
-      recipe_miles_block.yml</a></td>
-</tr>
-
-<tr>
-  <td><a href="/assets/img/total_Phytoplankton_MPI-ESM1-2-LR_ESACCI-OC_scatter.png"><img src="/assets/img/total_Phytoplankton_MPI-ESM1-2-LR_ESACCI-OC_scatter.png"
-      title="Scatter plot of surface chlorophyll from ESACCI-OC ocean colour data version 5.0 and the MPI-ESM1-2-LR model."></a></td>
-  <td><a href="/assets/img/HadGEM2-CC_NHW_ice_extent_Fractionalcover_1989DJF.png"><img src="/assets/img/HadGEM2-CC_NHW_ice_extent_Fractionalcover_1989DJF.png"
-      title="Northern hemisphere Winter sea ice extent for the HadGem2-CC model."></a></td>
-  <td><a href="/assets/img/MultipleModels_timeseries_drake_1860_2004.png"><img src="/assets/img/MultipleModels_timeseries_drake_1860_2004.png"
-      title="Multi-model time series plot of water transport through the Drake Passage."></a></td>
-</tr>
-<tr>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_esacci_oc.html">
-      recipe_esacci_oc.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_oceans.html">
-      recipe_ocean_ice_extent.yml</a></td>
-  <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_oceans.html">
-      recipe_ocean_amoc.yml</a></td>
-</tr>
-
-<!-- <tr> -->
-<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
-<!--       title=""></a></td> -->
-<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
-<!--       title=""></a></td> -->
-<!--   <td><a href="/assets/img/"><img src="/assets/img/" -->
-<!--       title=""></a></td> -->
-<!-- </tr> -->
-<!-- <tr> -->
-<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
-<!--       recipe_.yml</a></td> -->
-<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
-<!--       recipe_.yml</a></td> -->
-<!--   <td><a href="https://docs.esmvaltool.org/en/latest/recipes/recipe_.html"> -->
-<!--       recipe_.yml</a></td> -->
-<!-- </tr> -->
 
 </table>
