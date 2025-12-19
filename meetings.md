@@ -29,7 +29,7 @@ The date for the next monthly meeting has not been determined, if you want to be
 
 There are on average two community workshops a year, a hybrid meeting in spring and a virtual one in autumn.
 
-## Upcoming Workshops
+### Upcoming Workshops
 {% assign future = 0 %}
 {% for workshop in site.data.events.workshops %}
 
@@ -57,7 +57,7 @@ No date has been set for the next workshop, check the [Discussions on the GitHub
 
 {% endfor %}
 
-## Past Workshops
+### Past Workshops
 
 Here you can find information about past workshops.
 
