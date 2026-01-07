@@ -6,7 +6,7 @@ title: Events
 {% assign currentdate = site.time | date: '%Y%m%d' %}
 
 ## Monthly Meetings
-There are monthly Meetings for community members which are announced in the [Community Repository](https://github.com/ESMValGroup/Community/discussions), with doodles being sent to the mailing list to determine the best timeslot every month. Each Meeting takes around one hour. Anyone is invited to join these meetings and can ask questions. Around scheduled releases the highlights and possible issues due to backwards incompatibility will be discussed. If a longer topic is to be brought up for discussion, we suggest to leave a message in the corresponding Discussion Thread. Meeting Notes for previous Meetings can also be found in that repository.
+Monthly Meetings for community members take place regularly and are announced in the [Community Repository](https://github.com/ESMValGroup/Community/discussions), with doodles being sent to the mailing list to find a timeslot every month. Each meeting lasts about one hour. Anyone is invited to join these meetings, all questions are welcome. Around scheduled releases, the highlights and possible issues due to backwards incompatibility will be discussed. For topics that require a more in-depth discussion, we suggest to leave a message in the corresponding discussion thread. Meeting notes for previous meetings can also be found in that repository.
 
 ### Upcoming Monthly Meeting
 
@@ -27,7 +27,7 @@ The date for the next monthly meeting has not been determined, if you want to be
 
 ## Workshops
 
-There are on average two community workshops a year, a hybrid meeting in spring and a virtual one in autumn.
+There are usually two community workshops a year, a hybrid meeting in spring and a virtual one in autumn.
 
 ### Upcoming Workshops
 {% assign future = 0 %}
@@ -48,7 +48,7 @@ Location: {{workshop.venue}}<br>
     {% else %}
         {% if future==0 %}
 
-No date has been set for the next workshop, check the [Discussions on the GitHub Community Repository](https://github.com/ESMValGroup/Community/discussions) if dates are being discussed.
+No date has been set for the next workshop yet, check the [Discussions on the GitHub Community Repository](https://github.com/ESMValGroup/Community/discussions) for updates.
 
         {% endif %}
         {% break %}
