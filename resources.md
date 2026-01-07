@@ -5,7 +5,7 @@ title: Resources
 
 # Presentations
 
-Past Presentations using or introducing ESMValTool are listed in the [Community Repository](https://github.com/ESMValGroup/Community?tab=readme-ov-file#presentations) on GitHub. Some of these include links to the pdfs. If you would like to use those slides for your own presentation and would therefore require the .pptx files, feel free to contact the presenter given in the list.
+A list of past ESMValTool presentations can be found at the [Community Repository](https://github.com/ESMValGroup/Community?tab=readme-ov-file#presentations) on GitHub. Please feel free to use these slides in your own presentation. In case you prefer .pptx files, please contact the presenter given in the list.
 
 # Community Tutorials
 
