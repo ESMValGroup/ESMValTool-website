@@ -24,7 +24,7 @@ navbar-links:
   Team:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
-    - Meetings: "meetings"
+    - Events: "meetings"
     - Presentations: "presentations"
     - Publications: "publications"
   Download: "download"

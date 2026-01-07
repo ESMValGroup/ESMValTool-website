@@ -1,0 +1,86 @@
+- date: [11.05.2026, 13.05.2026]
+  venue: Hybrid - UK Met Office, Exeter, UK
+  additional_info:
+    Organizer: [Alistair Sellar]
+- date: [18.11.2025, 20.11.2025]
+  venue: Virtual
+  additional_info:
+    Topic: Documentation
+    Organizers: [Bettina Gier, Lukas Lindenlaub]
+    Agenda: /assets/pdf/Agenda_ESMValTool_Workshop_Nov2025.pdf
+- date: [27.05.2024, 29.05.2024]
+  venue: Hybrid - DLR, Oberpfaffenhofen, Germany
+  additional_info:
+    Agenda: /assets/pdf/Agenda_ESMValTool_WS_2024-05.pdf
+- date: [27.06.2023, 29.06.2023]
+  venue: Hybrid - SMHI, Norrköping, Sweden
+  additional_info:
+    Agenda: /assets/pdf/ESMValTool_workshop_agenda_June_2023.pdf
+- date: [18.10.2022, 20.10.2022]
+  venue: Hybrid - UK Met Office, Exeter, UK
+  additional_info:
+    Agenda: /assets/pdf/ESMValTool_workshop_agenda_Oct_2022.pdf
+- date: [13.06.2022, 15.06.2022]
+  venue: Hybrid - DLR, Oberpfaffenhofen, Germany
+  additional_info:
+    Summary: /assets/pdf/Summary_ESMValTool_Workshop_Jun_2022.pdf
+- date: [23.11.2021, 25.11.2021]
+  venue: Virtual
+  additional_info:
+    Summary: /assets/pdf/Summary_ESMValTool_Workshop_Nov_2021.pdf
+- date: [04.05.2021, 06.05.2021]
+  venue: Virtual
+  additional_info:
+    Summary: /assets/pdf/Summary_ESMValTool_Workshop_May_2021.pdf
+- date: [24.11.2020, 26.11.2020]
+  venue: Virtual
+  additional_info:
+    Summary: /assets/pdf/Summary_ESMValTool_Workshop_Nov_2020.pdf
+- date: [09.03.2020, 11.03.2020]
+  venue: Virtual
+  additional_info:
+    Summary: /assets/pdf/Summary_ESMValTool_Workshop_Mar_2020.pdf
+- date: [14.10.2019, 16.10.2019]
+  venue: DLR, Oberpfaffenhofen, Germany
+  additional_info:
+    Summary: /assets/pdf/Summary_ESMValTool_Workshop_Oct_2019.pdf
+- date: [03.06.2019, 06.06.2019]
+  venue: DLR, Oberpfaffenhofen, Germany
+  additional_info:
+    Summary: /assets/pdf/4thTechnicalESMValToolWorkshop_190603.pdf
+- date: [04.02.2019, 07.02.2019]
+  venue: SMHI, Norrköping, Sweden
+  additional_info:
+    Topic: CRESCENDO Diagnostics
+    Summary: /assets/pdf/ESMValTool_Workshop_Summary_201902.pdf
+- date: [06.02.2019, 08.02.2019]
+  venue: DLR, Oberpfaffenhofen, Germany
+  additional_info:
+    Topic: Backend Coding
+    Summary: /assets/pdf/ESMValTool_Workshop_Summary_201902.pdf
+- date: [18.06.2018, 22.06.2018]
+  venue: DLR, Oberpfaffenhofen, Germany
+  additional_info:
+    Summary: /assets/pdf/ESMValTool-v2_Workshop2018.pdf
+- date: [15.05.2017, 19.05.2017]
+  venue: DLR, Oberpfaffenhofen, Germany
+  additional_info:
+    Topic: Backend Coding
+    Summary: /assets/pdf/ESMValTool_2ndCodingWorkshopBackend_Summary_1705_Sent.pdf
+- date: [08.05.2017, 12.05.2017]
+  venue: LMU, Munich, Germany
+  additional_info:
+    Topic: Documentation and Visualization
+    Summary: /assets/pdf/ESMValTool_1stCodingWorkshopDocuVisualization_Summary_1705_Sent.pdf
+- date: [06.02.2017, 10.02.2017]
+  venue: Met Office, Exeter, UK
+  additional_info:
+    Topic: Backend Coding
+- date: [15.11.2016, 16.11.2016]
+  venue: LMU, Munich, Germany
+  additional_info:
+    Summary: /assets/pdf/201611_TechnicalWorkshopESMValTool_WorkshopSummary.pdf
+- date: [03.03.2015, 04.03.2015]
+  venue: LMU, Munich, Germany
+  additional_info:
+    Summary: /assets/pdf/201503_TechnicalWorkshopESMValTool_WorkshopSummary.pdf
