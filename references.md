@@ -46,4 +46,4 @@ ESMValTool v2 is released under the Apache License, version 2.0. The latest rele
 
 In addition, we encourage citation of the software documentation papers listed above. Citing these papers and registering your paper(s) will help to document the scientific impact of ESMValTool, which is of vital importance for acquiring future funding to help the ESMValTool team to keep improving and extending the tool.
 
-For convenience, you can download a bibtex file for the papers [here](/assets/downloads/esmvaltool_references.bib), but due to changing ESMValTool versions, we ask that you kindly generate the citation for the Code yourself following the Zenodo links above.
+For convenience, you can download a BibTex file for the documentation papers listed above [here](/assets/downloads/esmvaltool_references.bib). To cite the code, we kindly ask you to use the Zenodo links given above to reference the correct ESMValTool version for your paper.
