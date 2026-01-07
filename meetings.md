@@ -27,7 +27,7 @@ The date for the next monthly meeting has not been determined, if you want to be
 
 ## Workshops
 
-There are on average two community workshops a year, a hybrid meeting in spring and a virtual one in autumn.
+There are usually two community workshops a year, a hybrid meeting in spring and a virtual one in autumn.
 
 ### Upcoming Workshops
 {% assign future = 0 %}
