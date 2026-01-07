@@ -9,7 +9,7 @@ A list of past ESMValTool presentations can be found at the [Community Repositor
 
 # Community Tutorials
 
-Beside the [Official ESMValTool Tutorial](https://tutorial.esmvaltool.org/), many tutorials made by the community exist, often tailored for specific projects or topics. A list of past training events can be found [here](https://github.com/ESMValGroup/Community/tree/main?tab=readme-ov-file#training-events). Have you held a tutorial and would like to share the files or videos on the website? Let us know.
+In addition to the [official ESMValTool Tutorial](https://tutorial.esmvaltool.org/), many other tutorials or lectures created by the community are available, often tailored to specific projects or topics. A list of past training events can be found [here](https://github.com/ESMValGroup/Community/tree/main?tab=readme-ov-file#training-events). Have you given a tutorial and are interested in sharing the files or videos on the ESMValTool website? Then please contact us.
 
 
 | :-----------------: | :-------------------: | :----------------------|
