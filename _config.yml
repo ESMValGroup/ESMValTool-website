@@ -24,7 +24,7 @@ navbar-links:
   Community:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
-    - Meetings: "meetings"
+    - Events: "meetings"
     - Publications: "publications"
     - Resources: "resources"
   Download: "download"
