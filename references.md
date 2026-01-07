@@ -40,7 +40,7 @@ title: References
 
 # Acknowledgements
 
-If you used the ESMValTool or any of its figures in your publication, please acknowledge its use with the following sentences:
+If you used ESMValTool or any of its figures in your publication, please acknowledge the tool with the following sentences:
 
 ESMValTool v2 is released under the Apache License, version 2.0. The latest release of ESMValTool v2 is publicly available on Zenodo at [https://doi.org/10.5281/zenodo.3401363](https://doi.org/10.5281/zenodo.3401363). The ESMValCore package, which is installed as a dependency of ESMValTool v2, is also publicly available on Zenodo at [https://doi.org/10.5281/zenodo.3387139](https://doi.org/10.5281/zenodo.3387139). ESMValTool and ESMValCore are developed on the GitHub repositories available at [https://github.com/ESMValGroup](https://github.com/ESMValGroup) (last access: INSERT DATE).
 
