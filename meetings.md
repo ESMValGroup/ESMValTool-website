@@ -48,7 +48,7 @@ Location: {{workshop.venue}}<br>
     {% else %}
         {% if future==0 %}
 
-No date has been set for the next workshop, check the [Discussions on the GitHub Community Repository](https://github.com/ESMValGroup/Community/discussions) if dates are being discussed.
+No date has been set for the next workshop yet, check the [Discussions on the GitHub Community Repository](https://github.com/ESMValGroup/Community/discussions) for updates.
 
         {% endif %}
         {% break %}
