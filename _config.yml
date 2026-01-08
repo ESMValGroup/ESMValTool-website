@@ -21,12 +21,12 @@ navbar-links:
     - References: "references"
     - Strategy: "strategy"
     - License: "esmvaltool_license"
-  Team:
+  Community:
     - CMIP6 contributions: "cmip6"
     - Development Team: "team"
     - Events: "meetings"
-    - Presentations: "presentations"
     - Publications: "publications"
+    - Resources: "resources"
   Download: "download"
 
 navbar-extlinks:
