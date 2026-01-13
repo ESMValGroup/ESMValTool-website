@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMIP6
+title: CMIP7 REF
 ---
 
 ## CMIP7 Rapid Evaluation Framework (REF)
@@ -12,4 +12,7 @@ Community evaluation packages contributing to the Assessment Fast Track REF incl
 
 More information about the REF can be found in the REF overview paper ([Hoffman et al., 2026](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2685/)) or the [REF Github repository](https://github.com/Climate-REF/climate-ref).
 
+![REF schematic](/assets/img/CMIP7ref_schematic.png){:style="float: left;margin-right: 16px;margin-top: 16px;"}
+*The high-level workflow for the Rapid Evaluation Framework (REF) run on Earth System Grid Federation (ESGF) nodes (Source: [Zenodo](https://doi.org/10.5281/zenodo.15594502))*.
 
+ESMValTool contributes diagnostics such as the calculation of ECS, TCR, TRCE and ZEC, but also diagnostics characterizing ENSO, cloud radiative effects, Antarctic/Arctic sea ice area seasonal cycle, stratospheric ozone climatologies, key climate variables at different global warming levels, climate drivers for fire, and historical changes in climate variables. A full list of the diagnostics calculated by the Assessment Fast Track REF can be found [here](https://zenodo.org/records/14284375).
