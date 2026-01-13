@@ -22,7 +22,7 @@ navbar-links:
     - Strategy: "strategy"
     - License: "esmvaltool_license"
   Community:
-    - CMIP6 contributions: "cmip6"
+    - CMIP7 contributions: "cmip7_ref"
     - Development Team: "team"
     - Events: "meetings"
     - Publications: "publications"
