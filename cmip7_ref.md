@@ -10,7 +10,7 @@ The vision for the [Rapid Evaluation Framework](https://wcrp-cmip.org/cmip-phase
 
 Community evaluation packages contributing to the Assessment Fast Track REF include ESMValTool, ILAMB/IOMB and PMP. Multiple diagnostics from each package were adopted so they can be executed from within the REF, and provide important and rapid evaluation insights of new CMIP7 Assessment Fast Track simulations. The diagnostic outputs are then published alongside the model output on the Earth System Grid Federation (ESGF) through an easily accessible website.
 
-More information about the REF can be found in the REF overview paper ([Hoffman et al., 2026](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2685/)) or the [REF Github repository](https://github.com/Climate-REF/climate-ref).
+More information about the REF can be found in the REF overview paper ([Hoffman et al., 2026](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2685/)) or the [REF GitHub repository](https://github.com/Climate-REF/climate-ref).
 
 ![REF schematic](/assets/img/CMIP7ref_schematic.png){:style="float: left;margin-right: 16px;margin-top: 16px;"}
 *The high-level workflow for the Rapid Evaluation Framework (REF) run on Earth System Grid Federation (ESGF) nodes (Source: [Zenodo](https://doi.org/10.5281/zenodo.15594502))*.
