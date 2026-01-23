@@ -1,0 +1,60 @@
+name: Check Links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 23 * * 0"  # Every Sunday 11pm (UTC)
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write # Required for peter-evans/create-issue-from-file
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true  # installs and caches dependencies
+      
+      - name: Build Jekyll Site
+        run: |
+          bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production  # Built like production (rather than locally)
+
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+          # args to check source files without building
+          # './**/*.md' './**/*.html' './**/*.rst'
+          args: >
+            ./_site/**/*.html
+            --max-concurrency 1 --no-progress 
+            --accept '100..=103,200..=399, 429'
+            --exclude https://doi.org/
+        env:
+          # avoid 429 errors (too many requests) on github.com api requests
+          GITHUB_TOKEN: ${{secrets.TOKEN_GITHUB}}
+
+      - name: Set current date
+        run: echo "REPORT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      
+      # sloppy workaround. Hiding redirects in lychees md format does not work
+      - name: Clean up Report
+        run: |
+          sed -i '/^## Redirects per input/,$d' ./lychee/out.md
+          sed -i '1i > This report was generated automatically. If links that are reported below are actually working, please ignore the corresponding urls in the `.lycheeignore` to avoid reoccurring error reports in the future.\n\n' ./lychee/out.md
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 Link Check Report - ${{ env.REPORT_DATE }}"
+          content-filepath: ./lychee/out.md
+          labels: bug

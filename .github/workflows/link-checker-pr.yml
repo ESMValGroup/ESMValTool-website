@@ -1,0 +1,25 @@
+name: Check Links in PRs
+
+on:
+  pull_request:
+    paths: ['**.md']
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: |
+            './**/*.md'
+            --max-concurrency 1
+            --no-progress 
+        env:
+          # avoid 429 errors (too many requests) on github.com api requests
+          GITHUB_TOKEN: ${{secrets.TOKEN_GITHUB}}
