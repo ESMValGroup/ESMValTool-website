@@ -19,14 +19,14 @@ navbar-links:
     - About: "about"
     - Gallery: "gallery"
     - References: "references"
-    - Roadmap: "roadmap"
+    - Strategy: "strategy"
     - License: "esmvaltool_license"
-  Team:
-    - CMIP6 contributions: "cmip6"
+  Community:
+    - CMIP7 contributions: "cmip7_ref"
     - Development Team: "team"
-    - Meetings: "meetings"
-    - Presentations: "presentations"
+    - Events: "meetings"
     - Publications: "publications"
+    - Resources: "resources"
   Download: "download"
 
 navbar-extlinks:

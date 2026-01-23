@@ -21,7 +21,7 @@ The development of the ESMValTool was/is funded by
 | ![CMUG](/assets/img/cmug.jpg) | the European Space Agency's Climate Change Initiative Climate Modelling User Group ([CMUG](https://climate.esa.int/en/projects/cmug/)) Phase 4 | 10/2023-09/2026 |
 | ![EMBRACE](/assets/img/embrace_square.jpg) | the European Commission's 7th Framework Programme, under Grant Agreement number 282672, the "Earth system Model Bias Reduction and assessing Abrupt Climate change ([EMBRACE](https://cordis.europa.eu/project/id/282672/))" project | 11/2011-02/2016 |
 | ![ESA CCI OZONE](/assets/img/esa_cci_ozone_icon.gif) | the European Space Agency's Climate Change Initiative [Ozone project](https://climate.esa.int/en/projects/ozone/) Phase 3 | 03/2025-12/2026 |
-| ![ESA ESO4clima](/assets/img/ESO4clima_256.png) | the European Space Agency's Exploiting Satellite Observations for climate model analysis (ESO4clima) project | 07/2025-06/2026 |
+| ![ESA ESO4clima](/assets/img/ESO4clima_256.png) | the European Space Agency's Exploiting Satellite Observations for climate model analysis ([ESO4clima](https://climate.esa.int/ESO4Clima/)) project | 07/2025-06/2027 |
 | ![ESM2025](/assets/img/esm2025.jpg) | the European Commission's 7th Framework Programme, under Grant Agreement number 101003536, the "Earth system models for the future ([ESM2025](https://cordis.europa.eu/project/id/101003536/))" project | 06/2021-05/2025 |
 | ![eWaterCycle](/assets/img/eWaterCycle_logo_square.png) | the NWO ([eWaterCycle II](https://www.ewatercycle.org/))" project | - |
 | ![ESMVal](/assets/img/dlr_square.jpg) | the DLR project "Earth System Model Validation ([ESMVal](http://www.pa.op.dlr.de/ESMVal/))" | 01/2011-04/2015 |

@@ -37,3 +37,13 @@ title: References
 #### Other
 
 + <img align="right" width="180" height="130" src="/assets/img/Eyring_2016b-esd-7-813-2016-avatar.png"> **Eyring, V.**, Gleckler, P. J., Heinze, C., Stouffer, R. J., Taylor, K. E., Balaji, V., Guilyardi, E.,  Joussaume, S., Kindermann, S., Lawrence, B. N.,  Meehl, G. A., Righi, M., and Williams, D. N.: **Towards improved and more routine Earth system model evaluation in CMIP**, Earth Syst. Dynam., 7,  813-830,  [doi: 10.5194/esd-7-813-2016](https://doi.org/10.5194/esd-7-813-2016), 2016.
+
+# Acknowledgements
+
+If you used ESMValTool or any of its figures in your publication, please acknowledge the tool with the following sentences:
+
+ESMValTool v2 is released under the Apache License, version 2.0. The latest release of ESMValTool v2 is publicly available on Zenodo at [https://doi.org/10.5281/zenodo.3401363](https://doi.org/10.5281/zenodo.3401363). The ESMValCore package, which is installed as a dependency of ESMValTool v2, is also publicly available on Zenodo at [https://doi.org/10.5281/zenodo.3387139](https://doi.org/10.5281/zenodo.3387139). ESMValTool and ESMValCore are developed on the GitHub repositories available at [https://github.com/ESMValGroup](https://github.com/ESMValGroup) (last access: INSERT DATE).
+
+In addition, we encourage citation of the software documentation papers listed above. Citing these papers and registering your paper(s) will help to document the scientific impact of ESMValTool, which is of vital importance for acquiring future funding to help the ESMValTool team to keep improving and extending the tool.
+
+For convenience, you can download a BibTex file for the documentation papers listed above [here](/assets/downloads/esmvaltool_references.bib). To cite the code, we kindly ask you to use the Zenodo links given above to reference the correct ESMValTool version for your paper.
