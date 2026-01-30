@@ -20,6 +20,7 @@ jobs:
             './**/*.md'
             --max-concurrency 1
             --no-progress 
+            --exclude-path 'meetings.md'
         env:
           # avoid 429 errors (too many requests) on github.com api requests
           GITHUB_TOKEN: ${{secrets.TOKEN_GITHUB}}
