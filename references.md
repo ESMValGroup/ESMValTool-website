@@ -26,6 +26,10 @@ title: References
 
 + <img align="right" width="180" src="/assets/img/gmd-18-4009-2025-avatar-web.png">**Schlund, M.**, Andela, B., Benke, J., Comer, R., Hassler, B., Hogan, E., Kalverla, P., Lauer, A., Little, B., Loosveldt Tomas, S., Nattino, F., Peglar, P., Predoi, V., Smeets, S., Worsley, S., Yeo, M., and Zimmermann, K.: **Advanced climate model evaluation with ESMValTool v2.11.0 using parallel, out-of-core, and distributed computing**, Geosci. Model Dev., 18, 4009-4021, [doi: 10.5194/gmd-18-4009-2025](https://doi.org/10.5194/gmd-18-4009-2025), 2025.
 
+#### Monitoring and benchmarking
+
++ <img align="right" width="180" src="/assets/img/gmd-18-1169-2025-avatar-web.png">**Lauer, A.**, Bock, L., Hassler, B., Jöckel, P., Ruhe, L., and Schlund, M.: **Monitoring and benchmarking Earth system model simulations with ESMValTool v2.12.0**, Geosci. Model Dev., 18, 1169-1188, [doi: 10.5194/gmd-18-1169-2025](https://doi.org/10.5194/gmd-18-1169-2025), 2025.
+
 # Further Related References
 
 #### ESMValTool v1
