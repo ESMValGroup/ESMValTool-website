@@ -1,6 +1,10 @@
 zoom_link: &zoom "https://uni-bremen.zoom-x.de/j/63972641088?pwd=fmlnNUsxwb5DrZRYf07MFz8GbT6pQC.1"
 
 dates:
+  - date: 13.02.2026 10:00 CET
+    discussion-link: "https://github.com/ESMValGroup/Community/discussions/269"
+    place: Zoom
+    meeting-link: *zoom
   - date: 12.01.2026 10:00 CET
     discussion-link: "https://github.com/ESMValGroup/Community/discussions/266"
     place: Zoom
