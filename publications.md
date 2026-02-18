@@ -13,7 +13,7 @@ produced with the ESMValTool? Then we would like to encourage you to register
 your publication. This helps us to keep track of the usage of the ESMValTool 
 and allows our funding agencies to monitor its application. Thank you!<br><br>
 
-To register your publication, please send an e-mail to 📧 <a href="javascript:mail('lisa.bock','dlr.de')">Lisa Bock</a>
+To register your publication, please send an e-mail to 📧 <a href="javascript:mail('birgit.hassler','dlr.de')">Birgit Hassler</a>
 </p>
 </span>
 </div>
