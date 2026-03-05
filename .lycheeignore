@@ -1,6 +1,12 @@
+# Browser automatically show /index.html instead of /index (lychee does not)
+/index
+
 # doi.org blocks bot requests
 https://doi.org/
 
 # error detected but working when accessed through browser:
 https://blog.esciencecenter.nl/easy-ipcc-powered-by-esmvalcore-19a0b6366ea7
 https://ai4pex.org/
+https://www.mdpi.com/
+https://essopenarchive.org/
+https://journals.ametsoc.org/
