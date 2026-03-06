@@ -18,6 +18,7 @@ jobs:
           fail: true
           args: |
             './**/*.md'
+            --base-url https://esmvaltool.org/
             --max-concurrency 1
             --no-progress 
             --exclude-path 'meetings.md'
