@@ -35,6 +35,7 @@ jobs:
           # './**/*.md' './**/*.html' './**/*.rst'
           args: >
             ./_site/**/*.html
+            --base-url https://esmvaltool.org/
             --max-concurrency 1 --no-progress 
             --accept '100..=103,200..=399, 429'
             --exclude https://doi.org/
