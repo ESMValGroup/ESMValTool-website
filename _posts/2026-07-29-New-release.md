@@ -9,6 +9,7 @@ date: 2026-07-29
 New versions of the ESMValTool (v2.15.0) and ESMValCore (v2.15.0) have just been released:
 
 *[https://github.com/ESMValGroup/ESMValTool/releases/tag/v2.15.0](https://github.com/ESMValGroup/ESMvalTool/releases/tag/v2.15.0) 
+
 *[https://github.com/ESMValGroup/ESMValCore/releases/tag/v2.15.0](https://github.com/ESMValGroup/ESMvalCore/releases/tag/v2.15.0) 
 
 These versions are available, as usual, on GitHub, conda-forge, PyPI and as containers.
@@ -16,6 +17,7 @@ These versions are available, as usual, on GitHub, conda-forge, PyPI and as cont
 Please refer to the Changelogs for an overview of the latest changes and additions:
 
 *[https://docs.esmvaltool.org/en/latest/changelog.html#v2-15-0](https://docs.esmvaltool.org/en/latest/changelog.html#v2-15-0)
+
 *[https://docs.esmvaltool.org/projects/esmvalcore/en/latest/changelog.html#v2-15-0](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/changelog.html#v2-15-0)
 
 ### Highlights:
