@@ -155,6 +155,8 @@ improving comparability, benchmarking, and integration of global flood models**,
 Environmental Research Letters, 14(3), 034001,
 [doi: 10.1088/1748-9326/aaf3d3](https://doi.org/10.1088/1748-9326/aaf3d3), 2019.
 
+Hoffman, F. M., Hassler, B., Swaminathan, R., Lewis, J., Andela, B., Collier, N., Hegedűs, D., Lee, J., Pascoe, C., Pflüger, M., Stockhause, M., Ullrich, P., Xu, M., Bock, L., Chun, F., Gier, B. K., Kelley, D. I., Lauer, A., Lenhardt, J., Schlund, M., Sreeush, M. G., Weigel, K., Blockley, E., Beadling, R., Beucher, R., Dugassa, D. D., Lembo, V., Lu, J., Brands, S., Tjiputra, J., Malinina, E., Medeiros, B., Scoccimarro, E., Walton, J., Kershaw, P., Lanfer Marquez, A., Roberts, M. J., O'Rourke, E., Dingley, B., Turner, B., Hewitt, H., and Dunne, J. P.: **Rapid Evaluation Framework for the CMIP7 Assessment Fast Track**, Geosci. Model Dev., 19, 7415-7455, [doi: 10.5194/gmd-19-7415-2026](https://doi.org/10.5194/gmd-19-7415-2026), 2026.
+
 James, R., Washington, R., Abiodun, B., Kay, G., Mutemi, J., Pokam, W., Hart, N., Artan, G.
 and Senior, C.: **Evaluating climate models with an african lens**, Bulletin of the American
 Meteorological Society, 99(2), 313-336,
