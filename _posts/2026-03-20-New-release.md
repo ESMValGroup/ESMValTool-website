@@ -24,7 +24,7 @@ Please refer to the Changelogs for an overview of the latest changes and additio
 
 * Support for intake-esgf and new esmvaltool config commands have been added (see [Data sources](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/quickstart/configure.html#config-data-sources))
 * A new way to configure the CMOR tables and the possibility to use data that is not described in a CMOR table have been implemented (see [CMOR table configuration](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/quickstart/configure.html#cmor-table-configuration))
-* CMIP7 data is now supported (see [CMIP7 facets](https://esmvaltool--2935.org.readthedocs.build/projects/ESMValCore/en/2935/reference/facets.html#cmip7))
+* CMIP7 data is now supported (see [CMIP7 facets](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/reference/facets.html#cmip7))
 
 #### ESMValTool:
 
