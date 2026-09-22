@@ -30,6 +30,10 @@ title: References
 
 + <img align="right" width="180" src="/assets/img/gmd-18-1169-2025-avatar-web.png">**Lauer, A.**, Bock, L., Hassler, B., Jöckel, P., Ruhe, L., and Schlund, M.: **Monitoring and benchmarking Earth system model simulations with ESMValTool v2.12.0**, Geosci. Model Dev., 18, 1169-1188, [doi: 10.5194/gmd-18-1169-2025](https://doi.org/10.5194/gmd-18-1169-2025), 2025.
 
+#### Consistency and sanity checks
+
++ <img align="right" width="180" src="/assets/img/gmd-19-8731-2026-avatar-web.png">**Lauer, A.**, Schlund, M., Bock, L., Hassler, B., Behrens, G., Gier, B., Lindenlaub, L., Lorenz, S., Malles, J.-H., Müller, W. A., van Pham, T., Weigel, K., Zeng, G., and Eyring, V.: **An ESMValTool-based framework for sanity checks, physical consistency and climate fidelity during model development - ICONEval v1.0**, Geosci. Model Dev., 19, 8731-8754, [doi: 10.5194/gmd-19-8731-2026](https://doi.org/10.5194/gmd-19-8731-2026), 2026. 
+
 # Further Related References
 
 #### ESMValTool v1
