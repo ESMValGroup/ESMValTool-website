@@ -12,3 +12,6 @@ title: Main ESMValTool resources
 | :-----------------: | :-------------------: |
 | [![GitHub-logo](/assets/img/GitHub-Logo.png){:style="float:auto; width:160px"}](https://github.com/ESMValGroup/ESMValTool) | [**GitHub repositories**<br>(https://github.com/ESMValGroup/ESMValTool)](https://github.com/ESMValGroup/ESMValTool) |
 | :-----------------: | :-------------------: |
+| [![GitHub-logo](/assets/img/InBug-Black.png){:style="float:auto; width:160px"}](https://www.linkedin.com/company/esmvaltool) | [**LinkedIn profile**<br>(https://www.linkedin.com/company/esmvaltool
+)](https://www.linkedin.com/company/esmvaltool) |
+| :-----------------: | :-------------------: |
