@@ -7,7 +7,7 @@ title: Development team
 
 The [ESMValTool governance structure is described here](/assets/pdf/ESMValTool_Governance.pdf). The following partners have signed a consortium agreement (in alphabetical order):
 
-* Australian National University, ACCESS-NRI, Australia (in the process of becoming a new member)
+* Australian National University, ACCESS-NRI, Australia
 * Barcelona Supercomputing Center (BSC), Spain
 * Deutsches Zentrum für Luft- und Raumfahrt (DLR), Institut für Physik der Atmosphäre, Germany (Co-PI)
 * Met Office, United Kingdom (Co-PI)
