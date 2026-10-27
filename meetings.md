@@ -6,23 +6,12 @@ title: Events
 {% assign currentdate = site.time | date: '%Y%m%d' %}
 
 ## Monthly Meetings
-Monthly Meetings for community members take place regularly and are announced in the [Community Repository](https://github.com/ESMValGroup/Community/discussions), with doodles being sent to the mailing list to find a timeslot every month. Each meeting lasts about one hour. Anyone is invited to join these meetings, all questions are welcome. Around scheduled releases, the highlights and possible issues due to backwards incompatibility will be discussed. For topics that require a more in-depth discussion, we suggest to leave a message in the corresponding discussion thread. Meeting notes for previous meetings can also be found in that repository.
+Monthly Meetings for community members take place regularly and are announced in the [Community Repository](https://github.com/ESMValGroup/Community/discussions). Each meeting lasts about one hour. Anyone is invited to join these meetings, all questions are welcome. Around scheduled releases, the highlights and possible issues due to backwards incompatibility will be discussed. For topics that require a more in-depth discussion, we suggest to leave a message in the corresponding discussion thread. Meeting notes for previous meetings can also be found in that repository.
 
-### Upcoming Monthly Meeting
+Meeting times have been fixed to an alternating schedule, to allow for both NA and AUS friendly while being centered around the European workday.
 
-{% assign meeting = site.data.events.monthly_meetings.dates[0] %}
-{% assign meetingDate = meeting.date | date: '%Y%m%d' %}
-
-{% if meetingDate >= currentdate %}
-The next monthly meeting is scheduled for **{{ meeting.date }}** on [{{ meeting.place }}]({{ meeting.meeting-link }}).<br>
-Further Information can be found [here]({{ meeting.discussion-link }}).
-
-{% else %}
-The date for the next monthly meeting has not been determined, if you want to be notified when it is fixed, consider joining the [mailing list](https://docs.esmvaltool.org/en/latest/introduction.html#mailing-list) or check the [Discussions on the GitHub Community Repository](https://github.com/ESMValGroup/Community/discussions).
-{% endif %}
-
-
-
+**Even months**: First Friday of each month, 4pm CET
+**Odd months**: First Wednesday of each month, 9am CET
 
 
 ## Workshops
